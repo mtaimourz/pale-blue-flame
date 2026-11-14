@@ -1,0 +1,56 @@
+{
+ "meta": {
+  "note": "Cabin air for each place. Values from NASA documents linked per place. Test pressure in our material table is assumed 1 atm (Space Station / Cygnus cabin)."
+ },
+ "places": [
+  {
+   "id": "iss",
+   "name": "Space Station",
+   "oxygen_pct": 21,
+   "pressure_psia": 14.7,
+   "pressure_atm": 1.0,
+   "note": "Normal cabin air, like at sea level on Earth.",
+   "source": "https://www.nasa.gov/sites/default/files/atoms/files/dcs_technical_brief_ochmo.pdf"
+  },
+  {
+   "id": "airlock",
+   "name": "Spacewalk prep (airlock 'campout')",
+   "oxygen_pct": 26.5,
+   "pressure_psia": 10.2,
+   "pressure_atm": 0.69,
+   "note": "Lower pressure, more oxygen, used before spacewalks.",
+   "source": "https://www.nasa.gov/sites/default/files/atoms/files/dcs_technical_brief_ochmo.pdf"
+  },
+  {
+   "id": "moon",
+   "name": "Moon base",
+   "oxygen_pct": 34,
+   "pressure_psia": 8.2,
+   "pressure_atm": 0.56,
+   "note": "A planned exploration atmosphere (8.2 psia, 34% oxygen) from NASA studies for habitats with many spacewalks. Actual missions may differ.",
+   "source": "https://ntrs.nasa.gov/citations/20130013505"
+  },
+  {
+   "id": "rover",
+   "name": "Pressurized rover",
+   "oxygen_pct": 34,
+   "pressure_psia": 8.2,
+   "pressure_atm": 0.56,
+   "note": "Proposed: NASA rover studies plan the same kind of air as the habitat. Actual vehicles may differ.",
+   "source": "https://ntrs.nasa.gov/api/citations/20070021378/downloads/20070021378.pdf"
+  },
+  {
+   "id": "mars",
+   "name": "Mars base",
+   "oxygen_pct": 34,
+   "pressure_psia": 8.2,
+   "pressure_atm": 0.56,
+   "note": "Proposed: NASA exploration-atmosphere studies plan the same kind of air for Mars surface habitats as for Moon bases (8.0 psia and 32% oxygen in 2006, revised to 8.2 psia and 34% in 2012). Actual missions may differ.",
+   "source": "https://ntrs.nasa.gov/api/citations/20070021378/downloads/20070021378.pdf"
+  }
+ ],
+ "warning": {
+  "text": "At 8.2 psia, NASA calculated that oxygen above 31.4% makes materials burn faster: the 34% design point is above that line.",
+  "source": "https://asma.kglmeridian.com/downloadpdf/view/journals/amhp/89/9/article-p792.pdf"
+ }
+}

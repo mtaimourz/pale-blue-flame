@@ -1,0 +1,212 @@
+{
+ "note": "Saved replies from the question service (DeepSeek through our backend) for the example questions, so the static site can answer them without a backend or key. The verdicts on the page still come from NASA's data.",
+ "saved": "2026-11-15",
+ "answers": {
+  "Would my running shoe burn in a Moon rover?": {
+   "error": null,
+   "object": "running shoe",
+   "made_of": "upper (mesh/synthetic fabric) (cloth), foam midsole (rubber or foam), rubber outsole (rubber or foam), laces and trim (cloth)",
+   "candidates": [
+    {
+     "material": "SIBAL (cotton-fiberglass)",
+     "why": "upper (mesh/synthetic fabric) and laces and trim (about 50%)"
+    },
+    {
+     "material": "silicone",
+     "why": "foam midsole and rubber outsole (about 50%)"
+    }
+   ],
+   "material": "SIBAL (cotton-fiberglass)",
+   "place": "rover",
+   "answer": "The running shoe is represented by a stand-in material, SIBAL (cotton-fiberglass), not the shoe itself. In the NASA data used, there is no matching test of this material in the rover's air (34% oxygen at 0.56 atm), so it was not tested in this air — and not tested is not the same as safe.",
+   "more": "In a cabin fire, the shoe's fabric upper and laces would be the parts most likely to catch and spread flame, while foam and rubber can melt and add smoke. Flames behave differently without gravity: buoyancy-driven flow disappears, so oxygen reaches the flame mainly by slow diffusion and ventilation-driven flow, which can change how fast fire spreads. Higher oxygen concentrations make materials easier to ignite and burn faster, which is why the exact cabin air matters when judging fire risk.",
+   "facts": {
+    "material": "SIBAL (cotton-fiberglass)",
+    "place": "Pressurized rover",
+    "place_oxygen_pct": 34,
+    "place_pressure_atm": 0.56,
+    "fires_with_oxygen_recorded": 30,
+    "tested_oxygen_range": [
+     16.4,
+     22.1
+    ],
+    "tested_pressure_atm": 1.0,
+    "tested_in_this_air": false,
+    "closest_fire": {
+     "experiment": "SAFFIRE-II",
+     "test": "2-5",
+     "oxygen_pct": 22.1
+    },
+    "experiments": [
+     "BASS",
+     "BASS-II",
+     "SAFFIRE-I",
+     "SAFFIRE-II",
+     "SAFFIRE-III"
+    ],
+    "papers": [
+     "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station",
+     "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime",
+     "Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments",
+     "A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels",
+     "Radiation signature in opposed-flow flame spread"
+    ]
+   }
+  },
+  "Would my cotton shirt burn on the Station?": {
+   "error": null,
+   "object": "cotton shirt",
+   "made_of": "cotton fabric body (cloth), buttons (hard plastic)",
+   "candidates": [
+    {
+     "material": "SIBAL (cotton-fiberglass)",
+     "why": "cotton fabric body (about 95%)"
+    },
+    {
+     "material": "PMMA (acrylic)",
+     "why": "buttons (about 5%)"
+    }
+   ],
+   "material": "SIBAL (cotton-fiberglass)",
+   "place": "iss",
+   "answer": "The cotton shirt is represented by a stand-in material, SIBAL (cotton-fiberglass), which was burned in tests on the Space Station. That material was tested in air like this cabin's (about 1 atm, with oxygen levels from 16.4% to 22.1%), so there is a matching test in this air in the NASA data used.",
+   "more": "In a cabin fire, clothing and other thin fabrics are often what first catches flame, so how they burn matters for escape time and smoke. In microgravity there is no buoyancy to carry hot gases away, so flames spread differently than on Earth and can creep along a surface in ways gravity would not allow. Higher oxygen concentrations make materials easier to ignite and burn faster, which is why the oxygen level in the surrounding air is tracked alongside each test.",
+   "facts": {
+    "material": "SIBAL (cotton-fiberglass)",
+    "place": "Space Station",
+    "place_oxygen_pct": 21,
+    "place_pressure_atm": 1.0,
+    "fires_with_oxygen_recorded": 30,
+    "tested_oxygen_range": [
+     16.4,
+     22.1
+    ],
+    "tested_pressure_atm": 1.0,
+    "tested_in_this_air": true,
+    "closest_fire": {
+     "experiment": "BASS-II",
+     "test": "T25",
+     "oxygen_pct": 20.8
+    },
+    "experiments": [
+     "BASS",
+     "BASS-II",
+     "SAFFIRE-I",
+     "SAFFIRE-II",
+     "SAFFIRE-III"
+    ],
+    "papers": [
+     "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station",
+     "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime",
+     "Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments",
+     "A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels",
+     "Radiation signature in opposed-flow flame spread"
+    ]
+   }
+  },
+  "Would a candle burn on Mars?": {
+   "error": null,
+   "object": "candle",
+   "made_of": "wax body (wax), wick (cloth)",
+   "candidates": [
+    {
+     "material": "candle wax",
+     "why": "wax body (about 85%)"
+    },
+    {
+     "material": "SIBAL (cotton-fiberglass)",
+     "why": "wick (about 15%)"
+    }
+   ],
+   "material": "candle wax",
+   "place": "mars",
+   "answer": "The candle is a stand-in for the object, and the material card describes candle wax. In the NASA data used here, there is no matching test of this material in this air (34% oxygen at 0.56 atm), so not tested is not the same as safe. The closest recorded fire was BASS-II test F4 at 17.4% oxygen.",
+   "more": "In a cabin fire, small items like a candle's wax and wick matter because they can be the first things to ignite and spread flame to nearby materials. Flames behave differently without gravity: buoyancy-driven flow is absent, so ventilation and oxygen supply shape how a flame spreads. Higher oxygen concentrations make combustion easier and faster, which is why the exact air mixture matters when judging fire risk.",
+   "facts": {
+    "material": "candle wax",
+    "place": "Mars base",
+    "place_oxygen_pct": 34,
+    "place_pressure_atm": 0.56,
+    "fires_with_oxygen_recorded": 1,
+    "tested_oxygen_range": [
+     17.4,
+     17.4
+    ],
+    "tested_pressure_atm": 1.0,
+    "tested_in_this_air": false,
+    "closest_fire": {
+     "experiment": "BASS-II",
+     "test": "F4",
+     "oxygen_pct": 17.4
+    },
+    "experiments": [
+     "BASS",
+     "BASS-II"
+    ],
+    "papers": [
+     "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station",
+     "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime",
+     "Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments",
+     "A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels",
+     "Radiation signature in opposed-flow flame spread"
+    ]
+   }
+  },
+  "Would a metal spoon burn on the Moon?": {
+   "error": null,
+   "object": "metal spoon",
+   "made_of": "spoon bowl and handle (metal)",
+   "candidates": [],
+   "material": null,
+   "place": "moon",
+   "answer": "NASA's fire tests have nothing comparable to metal spoon.",
+   "more": null,
+   "facts": {}
+  },
+  "Will an NVIDIA H100 GPU burn on Mars?": {
+   "error": null,
+   "object": "NVIDIA H100 GPU",
+   "made_of": "circuit board (circuit board), cooling shroud and fan housing (hard plastic), metal heatsink and bracket (metal)",
+   "candidates": [
+    {
+     "material": "PMMA (acrylic)",
+     "why": "cooling shroud and fan housing (about 25%)"
+    }
+   ],
+   "material": "PMMA (acrylic)",
+   "place": "mars",
+   "answer": "The material listed is PMMA (acrylic), a stand-in for the plastic parts of the object, not the object itself. In the NASA data used, there is no matching fire test in this air (34% oxygen at 0.56 atm), so it has not been tested in this air — and not tested is not the same as safe.",
+   "more": "Plastic parts like cases, windows and housings matter in a cabin fire because they can ignite, spread flame along surfaces, and give off smoke and fumes. Flames behave differently without gravity: buoyancy is absent, so fresh oxygen reaches the flame mainly by slow diffusion and ventilation-driven flow rather than rising hot air, which changes how fires start and spread. Higher oxygen levels make materials easier to ignite and burn faster, which is why the exact oxygen concentration and pressure of the surrounding air matter when judging fire risk.",
+   "facts": {
+    "material": "PMMA (acrylic)",
+    "place": "Mars base",
+    "place_oxygen_pct": 34,
+    "place_pressure_atm": 0.56,
+    "fires_with_oxygen_recorded": 96,
+    "tested_oxygen_range": [
+     13.6,
+     22.2
+    ],
+    "tested_pressure_atm": 1.0,
+    "tested_in_this_air": false,
+    "closest_fire": {
+     "experiment": "BASS-II",
+     "test": "B1",
+     "oxygen_pct": 22.2
+    },
+    "experiments": [
+     "BASS",
+     "BASS-II",
+     "SAFFIRE-II"
+    ],
+    "papers": [
+     "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station",
+     "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime",
+     "Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments",
+     "A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels",
+     "Radiation signature in opposed-flow flame spread"
+    ]
+   }
+  }
+ }
+}

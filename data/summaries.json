@@ -1,0 +1,646 @@
+{
+ "meta": {
+  "what": "AI-drafted summaries of NASA's PSI records (deepseek-chat). Every line names its source in the record; lines with a source that does not exist were dropped. Findings appear only where the record states a result.",
+  "made": "2026-11-15"
+ },
+ "summaries": {
+  "PSI-10": {
+   "summary": [
+    {
+     "text": "The ACME/Flame Design flight experiment studied quasi-steady normal and inverse spherical diffusion flames, plus normal and inverse coflow flames, using ethylene (C2H4) and methane (CH4).",
+     "source": "objective"
+    },
+    {
+     "text": "It examined soot-inception limits, extinction limits, and detailed flame measurements as functions of flow rate, Zst, inert amount (N2 or CO2), and pressure.",
+     "source": "objective"
+    },
+    {
+     "text": "Tests were performed in drop towers and aboard the International Space Station, with flames observed by cameras, radiometers, photomultiplier tubes, and thermocouples.",
+     "source": "approach"
+    },
+    {
+     "text": "The work matters for crew fire safety because it characterizes soot inception, flame temperature, and extinction behavior of diffusion flames in microgravity.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs fire prevention by identifying the conditions under which soot forms and flames extinguish in microgravity diffusion flames.",
+   "earth": "It has the potential to improve efficiency and reduce pollutant emissions in terrestrial combustors, including contributing to novel designs of future coal power plants."
+  },
+  "PSI-20": {
+   "summary": [
+    {
+     "text": "The Burning Rate Emulator (BRE) flight experiment studies burning behavior in long-duration microgravity using porous circular burners of 25 and 50 mm diameter with CH4/N2 and C2H4/N2 fuel mixtures.",
+     "source": "objective"
+    },
+    {
+     "text": "Tests are conducted in the Combustion Integrated Rack (CIR) on the ISS, examining O2/N2 ambients at various pressures and oxygen concentrations, including those considered for human space missions.",
+     "source": "objective"
+    },
+    {
+     "text": "The approach involves establishing chamber conditions, igniting the fuel flow, and observing flames without varying flow rate to produce data for flammability maps, with extinction limits found by reducing flow rate.",
+     "source": "approach"
+    },
+    {
+     "text": "The investigation hypothesizes that a regime of quasi-steady burning exists in microgravity as a function of material properties, and that the heat of combustion, smoke point, and heat of gasification of the fuel mixture can represent real solid or liquid fuels.",
+     "source": "hypothesis"
+    },
+    {
+     "text": "This matters for crew fire safety because understanding burning conditions in microgravity helps establish flammability maps for real materials and informs spacecraft fire safety, especially since ventilation shutdown is a fire suppression step.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [
+    {
+     "text": "Quasi-steady burning corresponding to various condensed-phase materials (such as PMMA and Nylon) was observed in microgravity despite the absence of air flow.",
+     "source": "earth_benefits"
+    },
+    {
+     "text": "Ongoing combustion without air flow was notably seen in elevated-oxygen atmospheres which are being considered for use in future spacecraft, whereas such flames in a normal atmosphere of 21% oxygen self-extinguished in a short time.",
+     "source": "earth_benefits"
+    },
+    {
+     "text": "While BRE’s results are still preliminary, they suggest that NASA may want to increase use of its alternative flammability Test 2, with the cone calorimeter, where that test can measure material properties corresponding to the microgravity flames observed with the BRE burner.",
+     "source": "earth_benefits"
+    }
+   ],
+   "safety": "The BRE informs fire prevention by identifying conditions under which materials may sustain quasi-steady burning in microgravity, including in elevated-oxygen atmospheres, which is critical for establishing flammability maps and preventing spacecraft fires.",
+   "earth": "BRE results suggest increased use of the cone calorimeter (NASA Test 2) to measure material properties corresponding to microgravity flames, aiding flammability assessments for spacecraft and potentially Earth-based fire safety."
+  },
+  "PSI-21": {
+   "summary": [
+    {
+     "text": "The investigation characterized weak coflow diffusion flames of methane and ethylene as a function of velocity and fuel dilution, measuring flame shape, lift-off heights, temperatures and extinction limits.",
+     "source": "objective"
+    },
+    {
+     "text": "It also characterized sooting tendencies of diffusion flames with long residence times, measuring soot luminosity, soot temperatures and soot volume fractions.",
+     "source": "objective"
+    },
+    {
+     "text": "Experiments were conducted in microgravity on the ISS using the Combustion Integrated Rack and ACME hardware, with OH* and CH* chemiluminescence, laser extinction, and thin-filament pyrometry diagnostics.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aimed to provide benchmark data for validating computational models with improved soot sub-models, since microgravity extends time and spatial scales relevant to these flames.",
+     "source": "approach"
+    },
+    {
+     "text": "For crew fire safety, the study targets understanding of flame extinction in diffusion flames, which the record links to fire suppression.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs suppression by studying the factors that affect flame extinction in diffusion flames.",
+   "earth": "It supports modeling of turbulent reacting flows and soot formation and radiative transfer, and understanding of flame extinction for fire suppression and improved engine efficiency."
+  },
+  "PSI-22": {
+   "summary": [
+    {
+     "text": "The E-FIELD Flames investigation studied how electric fields influence laminar diffusion flames in microgravity, where buoyancy forces are absent.",
+     "source": "objective"
+    },
+    {
+     "text": "Gas-fueled flames of methane and ethylene, diluted with nitrogen, were burned with and without a coflow of air, using a high-voltage differential of up to 10 kV between the burner and a downstream mesh electrode.",
+     "source": "approach"
+    },
+    {
+     "text": "Measurements included ion current through the flame, flame response time to electric forcing, flame shape and luminosity, soot distribution and volume fraction, chemiluminescent emissions, and radiant emissions.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aimed to relate electric field voltage to chemi-ion current, characterize flame response to field changes, evaluate soot formation, and characterize stabilized near-limit lifted flames, informing crew fire safety through ion-driven control of flame stability and soot behavior.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention and detection by showing how electric fields can manipulate flame stability and soot behavior through ion-driven convection, relevant to controlling and sensing flames in spacecraft.",
+   "earth": "Electric-field flame control may reduce harmful pollutants, soot, and fuel consumption in terrestrial combustion."
+  },
+  "PSI-23": {
+   "summary": [
+    {
+     "text": "The experiment studied transient structure, extinction limits, and pulsating instabilities of spherical diffusion flames in both soot-free and sooty mixtures.",
+     "source": "objective"
+    },
+    {
+     "text": "Gaseous fuels and diluents were issued through a spherical porous burner into an oxidizing environment and ignited to form a nominally spherical, one-dimensional stabilized flame.",
+     "source": "approach"
+    },
+    {
+     "text": "Hydrogen, methane, and ethylene were used as fuels, with nitrogen, helium, and carbon dioxide as diluents to adjust diffusivities and radiation.",
+     "source": "approach"
+    },
+    {
+     "text": "Synchronized measurements included spectrally resolved images, flame and burner temperatures, radiative flux, and operating conditions for comparison with detailed numerical simulations.",
+     "source": "approach"
+    },
+    {
+     "text": "The work matters for crew fire safety because diffusion flame burning underlies many combustion devices, and microgravity provides a buoyancy-free environment for high-fidelity flame data.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs fire prevention by characterizing diffusion flame structure, extinction limits, and instabilities that underlie combustion behavior in spacecraft environments.",
+   "earth": "It supports improved performance in power, efficiency, pollutant emissions, and reliability of combustion engines and devices that rely on diffusion flame burning."
+  },
+  "PSI-25": {
+   "summary": [
+    {
+     "text": "BASS-II studied ignition, flame growth, flame spread, and extinction limits of solid fuels burning in low-velocity forced flows in microgravity aboard the International Space Station.",
+     "source": "objective"
+    },
+    {
+     "text": "Tests ran in a small wind tunnel inside the Microgravity Science Glovebox, with airflow speeds up to 40 cm/s and oxygen varied below 21% by adding nitrogen, using active crew support for real-time lab partner operations.",
+     "source": "approach"
+    },
+    {
+     "text": "Fuel samples included slabs, cylinders, spherical sections, films, and fabric sheets, with materials such as Nomex, PMMA, SIBAL, and candle wax tested across an oxygen range of 13.6 to 22.2 percent.",
+     "source": "our_table"
+    },
+    {
+     "text": "The work tests whether materials in microgravity with adequate ventilation burn as well as or better than in normal gravity, since the normal-gravity upward burning test may not be conservative for space flammability.",
+     "source": "hypothesis"
+    },
+    {
+     "text": "Results contribute to combustion computational models used in designing fire detection and suppression systems in microgravity and on Earth.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs detection and suppression by supplying data for computational models used in designing microgravity fire detection and suppression systems and by helping engineers select the safest materials.",
+   "earth": "The simplified oval-ball combustion in space enables evaluation of computer models of fuel burning that can then be used to study flames on Earth, such as wildfires, building fires, and energy recapture from waste recycling."
+  },
+  "PSI-26": {
+   "summary": [
+    {
+     "text": "BASS studied how solid materials burn in microgravity aboard the International Space Station inside the Microgravity Science Glovebox.",
+     "source": "objective"
+    },
+    {
+     "text": "The experiment aimed to bridge the gap between the normal-gravity NASA-STD-6001 Test #1 method, ground-based microgravity tests, and actual material flammability in microgravity, including wake flames behind objects.",
+     "source": "objective"
+    },
+    {
+     "text": "Custom fabric samples of 75% cotton and 25% fiberglass, plus Nomex and Ultem, were ignited with a Kanthal wire in a small flow duct with fan-driven airflow up to 40 cm/s in opposed or concurrent directions.",
+     "source": "approach"
+    },
+    {
+     "text": "It also assessed how effectively an inert gaseous extinguishing agent similar to that used on ISS puts out flames over different materials, geometries, preheating, and flow.",
+     "source": "objective"
+    },
+    {
+     "text": "The work matters for crew fire safety because spacecraft material selection currently relies on 1-g tests that do not account for low-gravity effects.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs suppression by assessing an inert gaseous extinguishing agent similar to that used on ISS against flames over different materials, geometries, preheating, and flow.",
+   "earth": "Results are used in first-order models and predictions of heat release in spacecraft fires and to extend heat release data toward a performance-based material selection process, with models applicable to terrestrial combustion problems."
+  },
+  "PSI-39": {
+   "summary": [
+    {
+     "text": "The Cool Flames Investigation examined the combustion behavior of n-dodecane and n-dodecane/iso-dodecane mixtures at pressures from 0.25 atm to 5 atm, including the effects of helium dilution.",
+     "source": "objective"
+    },
+    {
+     "text": "Fuel droplets were dispensed and suspended between hypodermic needles or tethered with silicon-carbide fibers inside the Multi-User Droplet Combustion Apparatus in the Combustion Integrated Rack, then ignited with a retractable hot-wire igniter.",
+     "source": "approach"
+    },
+    {
+     "text": "Flames were observed with black-and-white, UV, and high-resolution cameras and with narrow-band and wide-band radiometers, using fuels including n-dodecane, farnesane, and n-dodecane/iso-dodecane mixtures diluted with oxygen, nitrogen, and helium.",
+     "source": "approach"
+    },
+    {
+     "text": "The investigation aimed to relate droplet size, pressure, and flame extinction and to understand soot formation during cool flame combustion, informing crew fire safety in microgravity.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by refining knowledge of low-temperature combustion and flame extinction in microgravity, which supports the design of safer spacecraft systems.",
+   "earth": "It supports understanding of ignition of practical fuels and fuel additives, development and selection of new fuels, design of advanced engines such as HCCI engines, and new combustion models including how cool flame reactivity determines octane and cetane number."
+  },
+  "PSI-47": {
+   "summary": [
+    {
+     "text": "DAFT / DAFT-2 was a flight experiment on the International Space Station that tested whether a modified TSI P-Trak particulate counter would be accurate in microgravity.",
+     "source": "objective"
+    },
+    {
+     "text": "The P-Trak was modified by redesigning the condenser tube to use capillary forces to recycle isopropyl alcohol and by removing the mercury orientation switch.",
+     "source": "approach"
+    },
+    {
+     "text": "Arizona Red Dust was aerosolized with GN2 to create particle samples contained in 15-liter Mylar bags, and on-orbit counts from the modified P-Trak were compared with the DustTrak control.",
+     "source": "approach"
+    },
+    {
+     "text": "The work addressed concerns that the P-Trak, which relies on gravity to recycle isopropyl alcohol, might clog or overcount in microgravity, and it was intended to ensure the reliability of future aerosol experiments relevant to crew fire safety.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs detection, by establishing whether a smoke aerosol counter can reliably quantify particulates in microgravity for spacecraft fire detection systems.",
+   "earth": "The successful adaptation of the TSI P-Trak for microgravity can inform the design of instruments for challenging Earth environments such as submarines or underwater laboratories where accurate smoke detection can save lives."
+  },
+  "PSI-60": {
+   "summary": [
+    {
+     "text": "This ground study integrated computational and experimental methods to understand why soot formation differs greatly between normal gravity and microgravity flames.",
+     "source": "objective"
+    },
+    {
+     "text": "Researchers analyzed over 1600 raw DSLR images from the SPICE data in PSI using color-ratio pyrometry to extract soot temperature fields and calibrated light data to calculate soot volume fractions.",
+     "source": "approach"
+    },
+    {
+     "text": "Coupled flow-species-soot simulations including radiation re-absorption and discrete-sectional aggregate formation were run for Yale and ACME burner configurations under normal and microgravity conditions.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aimed to reconcile microgravity and normal gravity flame behavior and provide a framework for evaluating model parameter sensitivity, supporting safer fire detection and suppression for crews.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs detection and suppression by improving predictive models of soot formation and radiative transport in microgravity flames, which underpin spacecraft fire detection and suppression design.",
+   "earth": "The insights help reduce pollutant emissions, optimize combustion efficiency, and inform the design of cleaner energy and industrial systems."
+  },
+  "PSI-62": {
+   "summary": [
+    {
+     "text": "The study developed and validated unsteady flamelet generated manifold (UFGM) modeling techniques for concurrent flame spread in microgravity.",
+     "source": "objective"
+    },
+    {
+     "text": "Fully coupled fluid-solid simulations were run for charring and ablating materials, tested on BASS geometries including flat sheets, spheres, and rod-shaped PMMA samples and wax cylinders.",
+     "source": "approach"
+    },
+    {
+     "text": "BASS and BASS-II imagery was post-processed with two-color tomography using DSLR cameras to reconstruct soot and temperature fields for comparison with model predictions.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aimed to enable accurate prediction of flammability limits for spacecraft materials and to serve as a subgrid-scale model for large-eddy simulations supporting spacecraft fire safety.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by aiming to predict flammability limits of spacecraft materials and support hazard assessment for confined spacecraft habitats.",
+   "earth": "It could improve combustion modeling and fire safety standards by deepening understanding of coupled thermal, chemical, and flow processes, and support more effective fire prevention and mitigation strategies."
+  },
+  "PSI-68": {
+   "summary": [
+    {
+     "text": "FLEX-2 studied droplet combustion of pure and bi-component fuels in microgravity aboard the International Space Station using the Combustion Integrated Rack and Multi-user Droplet Combustion Apparatus.",
+     "source": "objective"
+    },
+    {
+     "text": "Tests varied fuel type, ambient gas composition, pressure from 0.5 to 3.0 atm, oxygen concentration from 0.1 to 0.4 mole fraction, droplet initial diameter, translation velocity, and spacing in binary arrays.",
+     "source": "approach"
+    },
+    {
+     "text": "Droplets were deployed, allowed to stabilize, ignited, and tracked with high-speed photography while chamber pressure and temperature were recorded.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aims to provide benchmark data to validate numerical simulations and develop theoretical models of droplet combustion, including flame extinction mechanisms and soot formation.",
+     "source": "objective"
+    },
+    {
+     "text": "For crew fire safety, understanding flame extinction boundaries and flammability limits of droplet arrays informs how fuel droplets behave and extinguish in the absence of buoyancy.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs fire prevention and suppression by examining flame extinction mechanisms and the flammability limits and extinction behavior of droplet arrays in microgravity.",
+   "earth": "Insights can support more efficient and cleaner liquid-fuel combustion technologies, future low-carbon combustor designs, fuel surrogates, and validation of jet engine models."
+  },
+  "PSI-69": {
+   "summary": [
+    {
+     "text": "The FLEX investigation mapped flammability limits of liquid fuels in microgravity and measured the effectiveness of gaseous suppressants such as CO2, He, and SF6.",
+     "source": "objective"
+    },
+    {
+     "text": "It also aimed to develop reliable predictive models for combustion limits under reduced gravity by incorporating detailed chemical reactions, heat transfer, and material movement.",
+     "source": "objective"
+    },
+    {
+     "text": "Experiments ignited and observed relatively large droplets, determining the Limiting Oxygen Index as a function of ambient pressure and suppressant presence, with tests at 0.5-1.5 atm and droplets around 3 mm.",
+     "source": "approach"
+    },
+    {
+     "text": "The hypothesis was that the lack of buoyant convection in microgravity alters flammability limits and suppressant efficacy compared with normal gravity.",
+     "source": "hypothesis"
+    },
+    {
+     "text": "The work matters for crew fire safety because traditional fire suppression methods may be ineffective in space environments.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs suppression by measuring the effectiveness of gaseous fire suppressants and mapping flammability limits in microgravity, where traditional suppression methods may be ineffective.",
+   "earth": "Insights could advance fire safety in confined and reduced-gravity environments such as submarines or high-altitude aircraft and support more efficient, less harmful fire suppression systems."
+  },
+  "PSI-98": {
+   "summary": [
+    {
+     "text": "The investigation aimed to determine how rapidly a large-scale fire grows in low gravity and to compare low-gravity flammability limits with NASA's normal-gravity material flammability screening test.",
+     "source": "objective"
+    },
+    {
+     "text": "The experiment was performed on the Orbital Science's Cygnus resupply vehicle after it deberthed from the ISS, with the sample card installed in the middle of a large flow duct and air drawn through by fans.",
+     "source": "approach"
+    },
+    {
+     "text": "The sample material was a composite fabric called Sibal consisting of cotton on a fiberglass substrate (75% cotton, 25% fiberglass by weight), approximately 0.94 meters long and 0.4 meters wide, simulating a large piece of flammable fabric.",
+     "source": "approach"
+    },
+    {
+     "text": "Saffire-I was conducted at an air flow velocity of 20 cm/s, with flame images captured by two cameras and thermocouples, radiometers, solid state sensors, and anemometers recording flow, flame, and plume temperatures, radiation, pressure, CO2 and O2 mole fraction, and flow velocity.",
+     "source": "approach"
+    },
+    {
+     "text": "The investigation hypothesized that using terrestrial fires and fire standards to design spacecraft fire safety systems presents an inherent risk due to large differences between fire behavior in normal and reduced gravity, and proposed large-scale fire safety experiments in an expendable spacecraft",
+     "source": "hypothesis"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by determining microgravity flammability limits and validating NASA's material selection criteria for spacecraft fire safety systems.",
+   "earth": "Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines."
+  },
+  "PSI-99": {
+   "summary": [
+    {
+     "text": "SAFFIRE-II studied how rapidly a large-scale fire grows in low gravity and examined low-gravity flammability limits against NASA's normal-gravity material screening test.",
+     "source": "objective"
+    },
+    {
+     "text": "The experiment flew on the Cygnus resupply vehicle after it departed the ISS, using a sample card of nine 5 cm x 29 cm samples in a large flow duct with fans and flow straighteners.",
+     "source": "approach"
+    },
+    {
+     "text": "Samples included SIBAL, silicone, structure PMMA, flat PMMA, and PMMA with Nomex, tested at air flow velocities of 20 or 30 cm/s in concurrent or opposed flow.",
+     "source": "approach"
+    },
+    {
+     "text": "Flame images, thermocouple temperatures, radiometer flame radiation, pressure, CO2 and O2 mole fraction, and flow velocity were recorded and downlinked.",
+     "source": "approach"
+    },
+    {
+     "text": "The investigation addresses the lack of microgravity data for spacecraft fire safety design by conducting large-scale fire experiments in an expendable spacecraft without risk to a crew.",
+     "source": "hypothesis"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by testing whether normal-gravity flammability screening limits hold in low gravity, which underpins spacecraft material selection and fire safety design.",
+   "earth": "Studying fire in small, sealed environments such as Cygnus benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines."
+  },
+  "PSI-100": {
+   "summary": [
+    {
+     "text": "The investigation studied how rapidly a large-scale fire grows in low gravity and examined low-gravity flammability limits against NASA's normal-gravity material screening test.",
+     "source": "objective"
+    },
+    {
+     "text": "Experiments were run on the Orbital Science's Cygnus resupply vehicle after it deberthed from the ISS, using SIBAL as the sample material at a flow velocity of 30 cm/s, with either concurrent or opposed flow.",
+     "source": "approach"
+    },
+    {
+     "text": "Flame images were captured with two cameras, while thermocouples, radiometers, solid state sensors, and anemometers recorded temperatures, radiation, pressure, CO2 and O2 mole fraction, and flow velocity, with data compressed and downlinked.",
+     "source": "approach"
+    },
+    {
+     "text": "The work addresses the lack of microgravity data for spacecraft fire safety design by conducting large-scale fire experiments in an expendable spacecraft without risk to a crew.",
+     "source": "hypothesis"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by testing flammability limits and fire growth of spacecraft materials in low gravity to support fire-safety design and material selection criteria.",
+   "earth": "Studying fire in small, sealed environments such as the Cygnus vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines."
+  },
+  "PSI-101": {
+   "summary": [
+    {
+     "text": "SAME-R quantified the sizes of liquid smoke particulate in low gravity and related the droplet size distribution to smoke generation and transport conditions.",
+     "source": "objective"
+    },
+    {
+     "text": "The investigation reused the SAME on-orbit hardware with modifications: a new Pyrell intumescent fire-retardant foam test material replacing DBP samples, broadened test conditions including higher heating temperatures and no-flow during sample heating, and a new in-house M-pass instrument replacing ",
+     "source": "approach"
+    },
+    {
+     "text": "Flight tests ran from July 16 to September 9, 2010, successfully completing 66 test points, followed by three major post-flight ground tests to improve data reduction and validate the lognormal distribution assumption.",
+     "source": "approach"
+    },
+    {
+     "text": "The work matters for crew fire safety because changes in smoke particle size distribution and number density in microgravity can affect smoke detector response and possibly cause some detectors not to alarm.",
+     "source": "hypothesis"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs detection by providing reduced-gravity smoke particulate data needed to evaluate whether spacecraft smoke detectors respond adequately to microgravity smoke.",
+   "earth": "Results can support advanced fire detector technology also useful in other extreme environments on Earth such as submarines or underwater laboratories, where accurate smoke detection can save lives."
+  },
+  "PSI-102": {
+   "summary": [
+    {
+     "text": "The investigation aimed to quantify the sizes of liquid smoke particulate in low gravity and relate the droplet size distribution to smoke generation and transport conditions.",
+     "source": "objective"
+    },
+    {
+     "text": "A numerical code was to be developed to predict smoke droplet growth from fuel pyrolysis rate, pyrolysis vapor thermodynamic properties, and the flow environment.",
+     "source": "objective"
+    },
+    {
+     "text": "Crew installed near field hardware in the Glovebox, attached the Far Field Box, ran self diagnostics on two smoke detectors, activated video cameras, turned on the igniter for a predefined period, and initiated thermophoretic soot samplers.",
+     "source": "approach"
+    },
+    {
+     "text": "Smoke was generated by overheated spacecraft materials with controlled sample temperature, flow field, and particle aging time; collected particles were analyzed by Transmission Electron microscope and samples weighed for mass loss.",
+     "source": "approach"
+    },
+    {
+     "text": "The work matters for crew fire safety because changes in smoke particle size distribution and number density could affect smoke detector response and possibly prevent alarms.",
+     "source": "hypothesis"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs detection by providing reduced-gravity data on smoke particle properties needed to evaluate whether spacecraft smoke detectors alarm adequately.",
+   "earth": "Smoke detectors developed from SAME results can also be useful in other extreme environments on Earth, such as submarines or underwater laboratories, where accurate smoke detection can save lives."
+  },
+  "PSI-106": {
+   "summary": [
+    {
+     "text": "The SLICE investigation studied the structure and stability of laminar diffusion flames in microgravity aboard the International Space Station.",
+     "source": "objective"
+    },
+    {
+     "text": "The apparatus used a fan-driven flow duct, exchangeable burner tubes, and integrated sensors for flow rate and temperature, with flames manually ignited under controlled coflow air conditions.",
+     "source": "approach"
+    },
+    {
+     "text": "Tests used methane, ethylene, and nitrogen-diluted fuel mixtures, with high-resolution imaging and sensor data overlaid on the images.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aimed to understand flame-base stabilization, liftoff velocity limits, dilution effects on soot and stability, and microgravity effects on flame length and radiative heat loss.",
+     "source": "objective"
+    },
+    {
+     "text": "It matters for crew fire safety because understanding flame stability and behavior in microgravity informs fire safety aboard spacecraft.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs fire prevention by characterizing how laminar diffusion flames stabilize, lift off, and behave in microgravity, which is relevant to understanding flame behavior in spacecraft environments.",
+   "earth": "It supports improved numerical models for flame behavior, design of lower-emission combustion systems, and cleaner, more efficient engines and industrial burners."
+  },
+  "PSI-107": {
+   "summary": [
+    {
+     "text": "SPICE studied non-buoyant jet diffusion flames in microgravity aboard the International Space Station to better understand the complex process of combustion.",
+     "source": "objective"
+    },
+    {
+     "text": "Flames were ignited in a controlled co-flow air environment inside the Microgravity Science Glovebox using a flow duct with integrated nozzles, cameras, and fuel delivery systems.",
+     "source": "approach"
+    },
+    {
+     "text": "Fuels tested included methane, ethylene, propane, propylene, and propylene mixtures, with burner diameters of 0.41 mm, 0.76 mm, and 1.6 mm and co-flow velocities from 5.4 cm/s to 65 cm/s.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aimed to identify laminar smoke-point properties, quantify sooting propensity of different fuels, and validate correlations between luminous flame shape and residence time in microgravity.",
+     "source": "objective"
+    },
+    {
+     "text": "It matters for crew fire safety because improved understanding of soot formation mechanisms can help design safer spacecraft environments.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by characterizing smoke-point and sooting behavior of fuels in microgravity, which supports designing safer spacecraft environments against soot formation.",
+   "earth": "It could contribute to refining computational models for predicting flame behavior under non-buoyant conditions and possibly provide insights for better fuel formulations and combustion processes."
+  },
+  "PSI-115": {
+   "summary": [
+    {
+     "text": "This investigation used numerical simulation to explore how gravity influences pyrolysis smoke growth from a fundamental perspective.",
+     "source": "objective"
+    },
+    {
+     "text": "The formation and growth of dibutyl-phthalate (DBP) particles in Earth gravity and microgravity were simulated using direct numerical simulation via a Navier-Stokes nodal approach.",
+     "source": "approach"
+    },
+    {
+     "text": "The smoke originates from pyrolysis vapor expelled from a heated sample in a geometry similar to the SAME experiments, considering two low cross-flow velocities where buoyancy cannot be neglected under gravity.",
+     "source": "approach"
+    },
+    {
+     "text": "Simulations assessed how particle size distributions depend on thermophoresis, particle settling, and flow geometry.",
+     "source": "approach"
+    },
+    {
+     "text": "The work aims to quantify differences between microgravity and Earth gravity smoke and identify the fluid dynamic mechanisms causing them, which matters for understanding smoke behavior relevant to crew fire safety.",
+     "source": "objective"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs detection by characterizing how gravity, temperature, and material properties affect smoke particle generation, which supports better smoke detection devices.",
+   "earth": "Models and tools characterizing smoke particles can lead to better smoke detection devices and help prevent fires that cause loss of materiel and loss of life."
+  },
+  "PSI-117": {
+   "summary": [
+    {
+     "text": "This ground study used FLEX flight data to quantify how external thermal and convective perturbations regulate the dynamics and fate of established droplet cool flames in microgravity.",
+     "source": "objective"
+    },
+    {
+     "text": "A 3-D OpenFOAM CFD model of n-alkane droplet cool flames coupled variable-density Navier-Stokes flow, low-temperature combustion chemistry, heat and mass transfer, and radiation, validated against ISS FLEX measurements.",
+     "source": "approach"
+    },
+    {
+     "text": "Controlled simulations applied convection alone, imposed heat flux, and combined convection plus heating to large (1-4 mm) and sub-millimeter (~0.5 mm) droplets, with parameter sweeps over forcing amplitude and frequency, ambient composition including ozone-assisted cases, and pressure.",
+     "source": "approach"
+    },
+    {
+     "text": "Predictive observables such as ignition delay, oscillation frequency and amplitude, and stand-off and extinction diameters were used to build stability maps for cool-flame onset, persistence, and quenching.",
+     "source": "approach"
+    },
+    {
+     "text": "The work matters for crew fire safety because it aims to improve spacecraft fire-safety modeling by resolving cool-flame and extinction behavior in microgravity and defining safer operating envelopes and materials.",
+     "source": "earth_benefits"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by mapping microgravity cool-flame stability windows and extinction boundaries that support spacecraft fire-safety modeling and safer operating envelopes.",
+   "earth": "It advances low-temperature combustion understanding relevant to engine knock, efficiency, and emissions, and delivers validated CFD tools transferrable to practical combustors."
+  },
+  "PSI-142": {
+   "summary": [
+    {
+     "text": "This grant used FLEX experimental data from the PSI system to run new simulations and ground-based experiments on ozone-sensitized counterflow flames.",
+     "source": "objective"
+    },
+    {
+     "text": "The work aimed to develop a flammability-limit diagram for diffusional cool flames affected by radiation, diffusion, and convection, and to bridge the gap between hot-flame and cool-flame limits.",
+     "source": "objective"
+    },
+    {
+     "text": "Comparative modeling used spark-assisted n-heptane/air flame propagation, one-dimensional freely-propagating dimethyl ether (DME) flames, and simulated DME/air cool flame regimes at elevated pressure.",
+     "source": "approach"
+    },
+    {
+     "text": "The study hypothesized that oxygen concentration, dilution, pressure, diffusion, and convection transport processes affect the cool flame transition.",
+     "source": "hypothesis"
+    },
+    {
+     "text": "Understanding these near-limit flame regimes matters for crew fire safety because cool and warm flames define where sustained combustion can occur in microgravity.",
+     "source": "objective"
+    }
+   ],
+   "findings": [
+    {
+     "text": "The warm flame has a double reaction zone structure and plays a critical role in the transition between cool flames and hot flames.",
+     "source": "earth_benefits"
+    },
+    {
+     "text": "At elevated pressures, the flammable region of warm flames and cool flames expands due to the increase in low-temperature and intermediate-temperature reactivity with pressure.",
+     "source": "earth_benefits"
+    }
+   ],
+   "safety": "It informs prevention by mapping the flammability and extinction limits of cool and warm flames, which define where sustained combustion can occur in microgravity.",
+   "earth": "The calculations advance understanding of near-limit flame dynamics and guide experimental observation of different flame regimes, relevant to high-pressure near-limit combustion applications such as engines operating in the 20-40 atm range."
+  },
+  "PSI-159": {
+   "summary": [
+    {
+     "text": "The investigation plans and supports flight testing on the International Space Station to study cool diffusion flames.",
+     "source": "objective"
+    },
+    {
+     "text": "It aims to determine the conditions under which cool diffusion flames occur for propane, n-butane, and n-pentane, for normal and inverse flames, and across a broad range of Zst, Tad, and fluent flow rate.",
+     "source": "objective"
+    },
+    {
+     "text": "Spherical diffusion flame tests are performed aboard the ISS with multiple fuels, a range of reactant dilutions, flow rates, and pressures for normal and inverse convection directions.",
+     "source": "approach"
+    },
+    {
+     "text": "Flames are observed with a broad suite of cameras, radiometers, photomultiplier tubes, and thermocouples.",
+     "source": "approach"
+    },
+    {
+     "text": "The work contributes to an improved understanding of cool flame kinetics, which matters for crew fire safety because cool flames are poorly understood and relevant to combustion behavior.",
+     "source": "hypothesis"
+    }
+   ],
+   "findings": [],
+   "safety": "It informs prevention by improving understanding of cool flame kinetics and the conditions under which cool diffusion flames occur, which is relevant to assessing fire risk in spacecraft.",
+   "earth": "The measurements will help test and advance cool flame kinetics mechanisms, which should facilitate the development of more efficient internal combustion engines."
+  }
+ }
+}

@@ -4,59 +4,59 @@
 
 ![Pale Blue Flame demo: the verdict, the oxygen chart, the five tabs and a question about a GPU on Mars](docs/demo.gif)
 
-The [full demo video (29 seconds, MP4)](https://drive.google.com/file/d/1_hw8IykJUlofG4zQl76rkk30fFltZF2W/view?usp=sharing) has sound.
+**[Live site](https://mtaimourz.github.io/pale-blue-flame/)** · **[Demo video (29 s)](https://drive.google.com/file/d/1_hw8IykJUlofG4zQl76rkk30fFltZF2W/view?usp=sharing)** · **[Data exploration notebook](notebooks/01_explore_the_data.ipynb)** · **[Data cleaning notebook](notebooks/02_clean_the_data.ipynb)**
 
-NASA did many small, controlled fire tests in space. On a cargo ship, a sheet of cotton and fiberglass, almost 1 meter long, burned. That ship had left the Space Station. Acrylic rods burned in a small wind tunnel on the Space Station. All of these material fires burned in the same type of air: Space Station air, at normal pressure, with 14% to 22% oxygen.
+## Why we built it
 
-The next places for people are different from the places of these experiments. NASA plans a base on the Moon, a pressurized rover and a base on Mars with more oxygen and lower pressure. For that air, the data has no tests.
+NASA has run 263 material fire tests in space. A sheet of cotton and fiberglass, almost a meter long, burned on a cargo ship after it left the Space Station. And every one of those fires burned in the same kind of air: Space Station air, normal pressure, 14 to 22% oxygen.
 
-Thus, we made a page that asks one question. The page gives an honest answer.
+The places people will live next are a bit different from where these tests ran. NASA plans Moon and Mars bases at 34% oxygen and 0.56 atm, and no material fire in our data comes near that air. One NASA investigation, ACME BRE, records flames that kept burning without airflow in air like that. In normal 21% air, the same flames went out.
 
-We made the page for the NASA Space Apps Challenge 2026, for the challenge [Flame in Freefall](https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/): "an SI-powered dashboard that summarizes, ranks and interprets NASA's microgravity combustion research for fire safety".
+So we built one page that asks one question: **would this burn here?** It sounds like a small answer. Turns out it is the finding.
 
-## The one question
+*Made for the NASA Space Apps Challenge 2026, challenge [Flame in Freefall](https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/).*
 
-The question is **"Would this burn here?"** You select a material and a place. Or, you ask about an object in your own words, for example "would my running shoe burn in a Moon rover?". The page gives one of two answers:
+## The two answers
 
-- **NASA tested this.** Real fires with that material burned in air that is almost the same as the air of that place. A tested material is not necessarily safe. The experiment page of each fire shows the result.
-- **We don't know. No matching test.** NASA tested the material, but only in different air. A material without a test is not necessarily safe.
+Select a material and a place, or ask about an object in your own words ("would my running shoe burn in a Moon rover?").
 
-This answer is short, but it is the main result. NASA's proposed air for Moon and Mars bases has 34% oxygen at 0.56 atm. No material fire in our data is near that air. The NASA record of one investigation, ACME BRE, gives an important result. In high-oxygen air of this type, the flames continued to burn without airflow. In normal air with 21% oxygen, the same flames stopped.
+| Verdict | What it means |
+|---|---|
+| **NASA tested this.** | Real fires with that material burned in air like the air of that place. A tested material is not necessarily safe. The experiment page shows the result of each fire. |
+| **We don't know. No matching test.** | NASA tested the material, but only in different air. A material without a test is not necessarily safe. |
 
 ## What is on the page
 
-The site has one page.
+| Part | What it shows |
+|---|---|
+| First screen | The verdict, the places (Earth, Space Station, spacewalk, Moon, Mars) and the oxygen chart. Each blue dot is a real NASA fire. The diamond is the air of your place. |
+| *The gap* tab | Each material fire by oxygen and cabin pressure, with the places where people plan to live. |
+| *Experiments* tab | The 24 investigations, in order of importance for your place, in three groups: prevent, detect, suppress. You can compare two. |
+| *A real fire* tab | The four heat sensors of Saffire-I, shown again in time order. |
+| *Back on Earth* tab | Space fire-safety technologies that people now use on Earth. |
+| *The data* tab | The tests for each material, as a chart, a table and a CSV file. |
+| Ask bar | Your own question. It stays at the bottom of the screen. |
 
-- **The first screen.** It shows the question, the verdict, a picture of the places (Earth, the Space Station, a spacewalk, the Moon, Mars) and the oxygen chart. Arrows come into view on the chart one by one. They show where NASA's fires burned, where your place is, and the range that has no tests.
-- **Look closer.** This is one row of tabs below the first screen:
-  - *The gap*: each material fire by oxygen and cabin pressure, with the places where people plan to live.
-  - *Experiments*: the 24 investigations, in order of importance for the place that you selected. They are in three groups: prevent, detect and suppress. Open an investigation to read its summary. You can compare two investigations.
-  - *A real fire*: the data of the heat sensors of Saffire-I, shown again in time order.
-  - *Back on Earth*: the space fire-safety technologies that people now use on Earth.
-  - *The data*: the tests for each material, as a chart, a table and a CSV file.
-- **The ask bar.** It stays at the bottom of the screen.
+To read a value, move the pointer across a chart. To open an experiment, click its dot.
 
-To read the values of a chart, move the pointer across the chart. To open the experiment of a dot, click the dot. To select a place, click the place.
+## How it works
 
-## What is in this repository
+- **Data.** The source is the Combustion Science records of [NASA Physical Sciences Informatics](https://psi.nasa.gov/physci/repo/search?q=combustion) (24 investigations, 23 with the CC0-1.0 license). Two notebooks change their test tables into one table of 263 material tests. The air of each place comes from NASA technical reports (links in `data/places.json`).
+- **AI.** The AI does one task: it identifies the materials of an object, for example "a plastic shroud, a circuit board, a metal heatsink". A fixed table in our code then selects the nearest material that NASA tested. The verdict, the numbers and the charts come from NASA's data, not from the AI.
+- **Summaries.** The AI also wrote the experiment summaries from the NASA records. Each line shows its source in the record. Our code removed each line without a real source.
+- **Checks.** `backend/eval_cases.py` sends 14 everyday questions to the backend and checks the answers.
 
 | Folder | Contents |
 |---|---|
-| `notebooks/01_explore_the_data.ipynb` | A tour of NASA's fire data: 24 investigations, their test tables, papers and raw files. Read this notebook first. |
-| `notebooks/02_clean_the_data.ipynb` | The steps that change the test tables into one table of 263 material tests. |
-| `data/` | The files that the site reads: `material_tests.csv`, `experiments.json`, `places.json`, `summaries.json` and `saffire1_sensors.json`. |
-| `webapp/` | The website (Vue 3, Vite, SVG and D3). The photographs are in `webapp/public/img/`. |
-| `backend/` | The question service (FastAPI and LangGraph, with DeepSeek). |
+| `notebooks/` | Data exploration (01) and data cleaning (02). |
+| `data/` | The files that the site reads. |
+| `webapp/` | The website: Vue 3, Vite, SVG and D3. |
+| `backend/` | The question service: FastAPI and LangGraph, with DeepSeek. |
 | `docs/` | The demo GIF. |
 
-## Run the site
+## Run it
 
-You must have Node 18 or a later version.
-
-1. Go to the `webapp` folder.
-2. Install the packages.
-3. Start the development server.
-4. Open `http://localhost:5173` in a browser.
+**The site** (Node 18 or later):
 
 ```sh
 cd webapp
@@ -64,24 +64,9 @@ npm install
 npm run dev
 ```
 
-The site operates without a network connection. The question box must have the backend.
+Open `http://localhost:5173`. The site operates without a network connection.
 
-## The site online
-
-The site is online at **https://mtaimourz.github.io/pale-blue-flame/**. GitHub Pages gets the site from the `gh-pages` branch.
-
-To publish a new version, run `webapp/scripts/deploy-pages.sh`. This script builds the static site and pushes the build to the `gh-pages` branch.
-
-The online copy has no backend and no API key. The five example questions show saved answers from the question service (`data/answers.json`). For all other questions, the page tells you that live answers must have the backend with a DeepSeek API key. To ask any question, run the site and the backend on your computer. The next section gives the steps.
-
-## Run the question box
-
-You must have Python 3.11 or a later version, [uv](https://docs.astral.sh/uv/) and a DeepSeek API key.
-
-1. Open a second terminal.
-2. Go to the `backend` folder.
-3. Set the `DEEPSEEK_API_KEY` variable to your key.
-4. Start the backend on port 8787.
+**The question box** (Python 3.11 or later, [uv](https://docs.astral.sh/uv/), a DeepSeek API key). In a second terminal:
 
 ```sh
 cd backend
@@ -89,40 +74,21 @@ export DEEPSEEK_API_KEY=your-key
 uv run uvicorn app:app --port 8787
 ```
 
-The site sends `/api` requests to the backend.
+> **Keep the key in the backend. Do not put the key in the website.**
+> If the backend stops, the question box shows a message. The other parts of the site continue to operate.
 
-**Keep the key in the backend. Do not put the key in the website.**
+**A stand at an event:** open `http://localhost:5173/?stand=1#/burn` and set the browser to full screen. The page shows a new example each six seconds.
 
-If the backend does not operate, the question box shows a message. The other parts of the site continue to operate.
+**Publish online:** run `webapp/scripts/deploy-pages.sh`. GitHub Pages gets the site from the `gh-pages` branch. The online copy has no backend: its five example questions use saved answers (`data/answers.json`).
 
-## Show the site at a stand
+## Limits
 
-1. Open `http://localhost:5173/?stand=1#/burn` in a browser.
-2. Set the browser to full screen.
-
-The stand view shows one 16:9 screen with no menus. It shows a new example each six seconds.
-
-## How the AI works
-
-The AI does one task. It identifies the materials of an everyday object, for example "a plastic shroud, a circuit board, a metal heatsink". Then, a fixed table in our code selects the nearest material that NASA tested. The verdict, the numbers and the charts come from NASA's data, not from the AI. If no material in the data is almost the same, the page tells you. A metal spoon and water are two examples.
-
-The AI also wrote the experiment summaries from the NASA record of each investigation. Each line shows the part of the record that it comes from. Our code removed each line that had no real source. "What they found" shows a result only if the NASA record gives that result.
-
-**Read the summaries before you quote them.**
-
-The file `backend/eval_cases.py` sends 14 everyday questions to the backend and checks the answers. Run this file after each change to the AI.
-
-## Sources and limits
-
-The data comes from the Combustion Science records of the [NASA Physical Sciences Informatics](https://psi.nasa.gov/physci/repo/search?q=combustion) database. Of the 24 records, 23 have the CC0-1.0 license. The air of each place comes from NASA technical reports. The file `data/places.json` gives the link to each report.
-
-Know these limits before you use the data:
-
-- The NASA tables do not record the pressure of the material tests. We use cabin pressure (approximately 1 atm). The data shows this assumption.
-- "No matching test" applies only to the data that we used. It does not apply to all fire tests.
+- NASA's tables do not record the pressure of the material tests. We use cabin pressure (approximately 1 atm).
+- "No matching test" applies only to the data that we used.
 - The air for the Moon, the rover and Mars is a proposal. Real missions can be different.
-- The background is a drawing of a spiral galaxy. The script `webapp/scripts/make-galaxy.py` makes this drawing. It is not a photograph or a star map.
-- The distances in the picture are real numbers, but the picture is not to scale.
-- A Moon base and a pressurized rover do not exist at this time. Their pictures are NASA concept art.
+- The Moon base and the rover pictures are NASA concept art. The galaxy background is a drawing, not a photograph.
+- **Read the AI summaries before you quote them.**
 
-We know much about fire in one type of air. We know almost nothing about the air where people will live next.
+---
+
+We know a great deal about fire in one kind of air, and almost nothing about the air we are about to live in.

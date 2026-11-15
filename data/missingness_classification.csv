@@ -1,0 +1,1184 @@
+experiment,test,column,status,reason
+BASS-II,B1,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B1,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B1,notes,needs_review,Check original NASA source
+BASS-II,B2,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B2,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B2,notes,needs_review,Check original NASA source
+BASS-II,B3,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B3,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B3,notes,needs_review,Check original NASA source
+BASS-II,B4,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B4,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B4,notes,needs_review,Check original NASA source
+BASS-II,B5,shape,needs_review,Check original NASA source
+BASS-II,B5,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B5,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B5,notes,needs_review,Check original NASA source
+BASS-II,B6,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B6,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B7,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B7,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B7,notes,needs_review,Check original NASA source
+BASS-II,B8,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B8,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B9,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B9,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B9,notes,needs_review,Check original NASA source
+BASS-II,B10,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B10,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B10,notes,needs_review,Check original NASA source
+BASS-II,B11,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B11,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B11,notes,needs_review,Check original NASA source
+BASS-II,B12,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B12,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B12,notes,needs_review,Check original NASA source
+BASS-II,B13,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B13,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B13,notes,needs_review,Check original NASA source
+BASS-II,B14,shape,needs_review,Check original NASA source
+BASS-II,B14,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B15,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B15,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B16,shape,needs_review,Check original NASA source
+BASS-II,B16,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B16,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B17,shape,needs_review,Check original NASA source
+BASS-II,B17,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B17,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B18,shape,needs_review,Check original NASA source
+BASS-II,B18,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B19,shape,needs_review,Check original NASA source
+BASS-II,B19,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B20,shape,needs_review,Check original NASA source
+BASS-II,B20,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B20,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B21,shape,needs_review,Check original NASA source
+BASS-II,B21,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B22,shape,needs_review,Check original NASA source
+BASS-II,B22,flow_direction,expected_missing,Direction not specified per test
+BASS-II,B22,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,B22,notes,needs_review,Check original NASA source
+BASS-II,F1,size_mm,needs_review,Check original NASA source
+BASS-II,F1,flow_direction,expected_missing,Direction not specified per test
+BASS-II,F1,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,F1,notes,needs_review,Check original NASA source
+BASS-II,F2,size_mm,needs_review,Check original NASA source
+BASS-II,F2,flow_direction,expected_missing,Direction not specified per test
+BASS-II,F2,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,F2,notes,needs_review,Check original NASA source
+BASS-II,F3,size_mm,needs_review,Check original NASA source
+BASS-II,F3,flow_direction,expected_missing,Direction not specified per test
+BASS-II,F3,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,F3,notes,needs_review,Check original NASA source
+BASS-II,F4,size_mm,needs_review,Check original NASA source
+BASS-II,F4,flow_direction,expected_missing,Direction not specified per test
+BASS-II,F4,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M1,shape,needs_review,Check original NASA source
+BASS-II,M1,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M1,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M1,notes,needs_review,Check original NASA source
+BASS-II,M2,shape,needs_review,Check original NASA source
+BASS-II,M2,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M2,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M2,notes,needs_review,Check original NASA source
+BASS-II,M3,shape,needs_review,Check original NASA source
+BASS-II,M3,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M3,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M3,notes,needs_review,Check original NASA source
+BASS-II,M4,shape,needs_review,Check original NASA source
+BASS-II,M4,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M4,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M4,notes,needs_review,Check original NASA source
+BASS-II,M5,shape,needs_review,Check original NASA source
+BASS-II,M5,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M5,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M5,notes,needs_review,Check original NASA source
+BASS-II,M6,shape,needs_review,Check original NASA source
+BASS-II,M6,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M6,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M6,notes,needs_review,Check original NASA source
+BASS-II,M7,shape,needs_review,Check original NASA source
+BASS-II,M7,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M7,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M7,notes,needs_review,Check original NASA source
+BASS-II,M8,shape,needs_review,Check original NASA source
+BASS-II,M8,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M8,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M9,shape,needs_review,Check original NASA source
+BASS-II,M9,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M9,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M9,notes,needs_review,Check original NASA source
+BASS-II,M10,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M10,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M10,notes,needs_review,Check original NASA source
+BASS-II,M11,shape,needs_review,Check original NASA source
+BASS-II,M11,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M11,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M11,notes,needs_review,Check original NASA source
+BASS-II,M12,shape,needs_review,Check original NASA source
+BASS-II,M12,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M12,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M12,notes,needs_review,Check original NASA source
+BASS-II,M13,shape,needs_review,Check original NASA source
+BASS-II,M13,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M13,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M13,notes,needs_review,Check original NASA source
+BASS-II,M14,shape,needs_review,Check original NASA source
+BASS-II,M14,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M14,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M14,notes,needs_review,Check original NASA source
+BASS-II,M15,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M15,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M15,notes,needs_review,Check original NASA source
+BASS-II,M16,shape,needs_review,Check original NASA source
+BASS-II,M16,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M16,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M16,notes,needs_review,Check original NASA source
+BASS-II,M17,shape,needs_review,Check original NASA source
+BASS-II,M17,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M18,shape,needs_review,Check original NASA source
+BASS-II,M18,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M18,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M19,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M19,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M19,notes,needs_review,Check original NASA source
+BASS-II,M20,shape,needs_review,Check original NASA source
+BASS-II,M20,flow_direction,expected_missing,Direction not specified per test
+BASS-II,M20,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,M20,notes,needs_review,Check original NASA source
+BASS-II,O1,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O1,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O1,notes,needs_review,Check original NASA source
+BASS-II,O2,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O2,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O2,notes,needs_review,Check original NASA source
+BASS-II,O3a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O3a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O3a,notes,needs_review,Check original NASA source
+BASS-II,O3b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O3b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O4,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O5a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O5a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O5a,notes,needs_review,Check original NASA source
+BASS-II,O5b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O5b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O6,airflow_start_cm_s,needs_review,Check original NASA source
+BASS-II,O6,airflow_min_cm_s,needs_review,Check original NASA source
+BASS-II,O6,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O6,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O7,airflow_start_cm_s,needs_review,Check original NASA source
+BASS-II,O7,airflow_min_cm_s,needs_review,Check original NASA source
+BASS-II,O7,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O7,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O7,notes,needs_review,Check original NASA source
+BASS-II,O8a,airflow_start_cm_s,needs_review,Check original NASA source
+BASS-II,O8a,airflow_min_cm_s,needs_review,Check original NASA source
+BASS-II,O8a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O8a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O8a,notes,needs_review,Check original NASA source
+BASS-II,O8b,airflow_start_cm_s,needs_review,Check original NASA source
+BASS-II,O8b,airflow_min_cm_s,needs_review,Check original NASA source
+BASS-II,O8b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O8b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O8b,notes,needs_review,Check original NASA source
+BASS-II,O9,airflow_start_cm_s,needs_review,Check original NASA source
+BASS-II,O9,airflow_min_cm_s,needs_review,Check original NASA source
+BASS-II,O9,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O9,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O9,notes,needs_review,Check original NASA source
+BASS-II,O10,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O10,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O11,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O12,airflow_start_cm_s,needs_review,Check original NASA source
+BASS-II,O12,airflow_min_cm_s,needs_review,Check original NASA source
+BASS-II,O12,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O12,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O13a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O13a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O13a,notes,needs_review,Check original NASA source
+BASS-II,O13b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O13b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O13b,notes,needs_review,Check original NASA source
+BASS-II,O14,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O15a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O15a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O15a,notes,needs_review,Check original NASA source
+BASS-II,O15b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O15b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O15b,notes,needs_review,Check original NASA source
+BASS-II,O16,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O16,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O16,notes,needs_review,Check original NASA source
+BASS-II,O17,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O17,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O17,notes,needs_review,Check original NASA source
+BASS-II,O18,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O18,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O18,notes,needs_review,Check original NASA source
+BASS-II,O19,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O20,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O20,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O21,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O21,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,O22,flow_direction,expected_missing,Direction not specified per test
+BASS-II,O22,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P1,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P2,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P2,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P3a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P3a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P3a,notes,needs_review,Check original NASA source
+BASS-II,P3b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P3b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P4,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P4,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P5,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P6,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P6,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P8,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P8,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P9,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P10,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P12,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P12,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P13a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P13b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P14,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P14,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P15,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P15,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P15,notes,needs_review,Check original NASA source
+BASS-II,P16,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P16,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P17,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P17,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P18,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P18,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P19,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P19,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P20,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P20,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P21a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P21a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P21a,notes,needs_review,Check original NASA source
+BASS-II,P21b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P21b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P21b,notes,needs_review,Check original NASA source
+BASS-II,P22a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P22b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P23,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P23,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P24,flow_direction,expected_missing,Direction not specified per test
+BASS-II,P24,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,P25,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T1,size_mm,needs_review,Check original NASA source
+BASS-II,T1,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T1,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T1,notes,needs_review,Check original NASA source
+BASS-II,T2,size_mm,needs_review,Check original NASA source
+BASS-II,T2,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T2,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T2,notes,needs_review,Check original NASA source
+BASS-II,T3,size_mm,needs_review,Check original NASA source
+BASS-II,T3,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T3,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T3,notes,needs_review,Check original NASA source
+BASS-II,T4,size_mm,needs_review,Check original NASA source
+BASS-II,T4,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T4,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T4,notes,needs_review,Check original NASA source
+BASS-II,T5,size_mm,needs_review,Check original NASA source
+BASS-II,T5,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T5,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T5,notes,needs_review,Check original NASA source
+BASS-II,T6,size_mm,needs_review,Check original NASA source
+BASS-II,T6,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T6,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T6,notes,needs_review,Check original NASA source
+BASS-II,T7,size_mm,needs_review,Check original NASA source
+BASS-II,T7,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T7,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T9,size_mm,needs_review,Check original NASA source
+BASS-II,T9,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T9,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T9,notes,needs_review,Check original NASA source
+BASS-II,T10,size_mm,needs_review,Check original NASA source
+BASS-II,T10,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T10,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T10,notes,needs_review,Check original NASA source
+BASS-II,T11,size_mm,needs_review,Check original NASA source
+BASS-II,T11,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T11,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T11,notes,needs_review,Check original NASA source
+BASS-II,T12,size_mm,needs_review,Check original NASA source
+BASS-II,T12,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T12,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T12,notes,needs_review,Check original NASA source
+BASS-II,T13,size_mm,needs_review,Check original NASA source
+BASS-II,T13,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T13,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T13,notes,needs_review,Check original NASA source
+BASS-II,T14,size_mm,needs_review,Check original NASA source
+BASS-II,T14,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T14,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T14,notes,needs_review,Check original NASA source
+BASS-II,T15,size_mm,needs_review,Check original NASA source
+BASS-II,T15,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T15,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T15,notes,needs_review,Check original NASA source
+BASS-II,T16,size_mm,needs_review,Check original NASA source
+BASS-II,T16,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T16,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T16,notes,needs_review,Check original NASA source
+BASS-II,T17,size_mm,needs_review,Check original NASA source
+BASS-II,T17,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T17,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T17,notes,needs_review,Check original NASA source
+BASS-II,T18,size_mm,needs_review,Check original NASA source
+BASS-II,T18,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T18,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T18,notes,needs_review,Check original NASA source
+BASS-II,T19,size_mm,needs_review,Check original NASA source
+BASS-II,T19,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T19,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T19,notes,needs_review,Check original NASA source
+BASS-II,T20,size_mm,needs_review,Check original NASA source
+BASS-II,T20,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T20,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T20,notes,needs_review,Check original NASA source
+BASS-II,T21,size_mm,needs_review,Check original NASA source
+BASS-II,T21,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T21,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T22,size_mm,needs_review,Check original NASA source
+BASS-II,T22,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T22,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T22,notes,needs_review,Check original NASA source
+BASS-II,T23,size_mm,needs_review,Check original NASA source
+BASS-II,T23,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T23,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T23,notes,needs_review,Check original NASA source
+BASS-II,T24,size_mm,needs_review,Check original NASA source
+BASS-II,T24,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T24,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T24,notes,needs_review,Check original NASA source
+BASS-II,T25,size_mm,needs_review,Check original NASA source
+BASS-II,T25,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T25,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T25,notes,needs_review,Check original NASA source
+BASS-II,T26,size_mm,needs_review,Check original NASA source
+BASS-II,T26,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T26,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T26,notes,needs_review,Check original NASA source
+BASS-II,T27,size_mm,needs_review,Check original NASA source
+BASS-II,T27,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T27,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T27,notes,needs_review,Check original NASA source
+BASS-II,T28a,size_mm,needs_review,Check original NASA source
+BASS-II,T28a,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T28a,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T28a,notes,needs_review,Check original NASA source
+BASS-II,T28b,size_mm,needs_review,Check original NASA source
+BASS-II,T28b,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T28b,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T28b,notes,needs_review,Check original NASA source
+BASS-II,T29,size_mm,needs_review,Check original NASA source
+BASS-II,T29,flow_direction,expected_missing,Direction not specified per test
+BASS-II,T29,result,not_conclusive,Blank result does not establish burn outcome
+BASS-II,T29,notes,needs_review,Check original NASA source
+BASS,1,size_mm,needs_review,Check original NASA source
+BASS,1,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,1,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,1,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,1,flow_direction,expected_missing,Not available in BASS table
+BASS,1,result,expected_missing,Result not available in BASS table
+BASS,42,size_mm,needs_review,Check original NASA source
+BASS,42,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,42,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,42,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,42,flow_direction,expected_missing,Not available in BASS table
+BASS,42,result,expected_missing,Result not available in BASS table
+BASS,18,size_mm,needs_review,Check original NASA source
+BASS,18,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,18,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,18,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,18,flow_direction,expected_missing,Not available in BASS table
+BASS,18,result,expected_missing,Result not available in BASS table
+BASS,7,size_mm,needs_review,Check original NASA source
+BASS,7,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,7,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,7,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,7,flow_direction,expected_missing,Not available in BASS table
+BASS,7,result,expected_missing,Result not available in BASS table
+BASS,8,size_mm,needs_review,Check original NASA source
+BASS,8,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,8,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,8,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,8,flow_direction,expected_missing,Not available in BASS table
+BASS,8,result,expected_missing,Result not available in BASS table
+BASS,43,size_mm,needs_review,Check original NASA source
+BASS,43,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,43,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,43,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,43,flow_direction,expected_missing,Not available in BASS table
+BASS,43,result,expected_missing,Result not available in BASS table
+BASS,44,size_mm,needs_review,Check original NASA source
+BASS,44,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,44,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,44,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,44,flow_direction,expected_missing,Not available in BASS table
+BASS,44,result,expected_missing,Result not available in BASS table
+BASS,45,size_mm,needs_review,Check original NASA source
+BASS,45,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,45,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,45,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,45,flow_direction,expected_missing,Not available in BASS table
+BASS,45,result,expected_missing,Result not available in BASS table
+BASS,19,size_mm,needs_review,Check original NASA source
+BASS,19,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,19,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,19,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,19,flow_direction,expected_missing,Not available in BASS table
+BASS,19,result,expected_missing,Result not available in BASS table
+BASS,20,size_mm,needs_review,Check original NASA source
+BASS,20,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,20,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,20,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,20,flow_direction,expected_missing,Not available in BASS table
+BASS,20,result,expected_missing,Result not available in BASS table
+BASS,21,size_mm,needs_review,Check original NASA source
+BASS,21,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,21,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,21,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,21,flow_direction,expected_missing,Not available in BASS table
+BASS,21,result,expected_missing,Result not available in BASS table
+BASS,4,size_mm,needs_review,Check original NASA source
+BASS,4,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,4,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,4,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,4,flow_direction,expected_missing,Not available in BASS table
+BASS,4,result,expected_missing,Result not available in BASS table
+BASS,10,size_mm,needs_review,Check original NASA source
+BASS,10,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,10,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,10,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,10,flow_direction,expected_missing,Not available in BASS table
+BASS,10,result,expected_missing,Result not available in BASS table
+BASS,12,size_mm,needs_review,Check original NASA source
+BASS,12,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,12,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,12,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,12,flow_direction,expected_missing,Not available in BASS table
+BASS,12,result,expected_missing,Result not available in BASS table
+BASS,54,shape,needs_review,Check original NASA source
+BASS,54,size_mm,needs_review,Check original NASA source
+BASS,54,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,54,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,54,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,54,flow_direction,expected_missing,Not available in BASS table
+BASS,54,result,expected_missing,Result not available in BASS table
+BASS,55,shape,needs_review,Check original NASA source
+BASS,55,size_mm,needs_review,Check original NASA source
+BASS,55,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,55,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,55,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,55,flow_direction,expected_missing,Not available in BASS table
+BASS,55,result,expected_missing,Result not available in BASS table
+BASS,56,shape,needs_review,Check original NASA source
+BASS,56,size_mm,needs_review,Check original NASA source
+BASS,56,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,56,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,56,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,56,flow_direction,expected_missing,Not available in BASS table
+BASS,56,result,expected_missing,Result not available in BASS table
+BASS,57,shape,needs_review,Check original NASA source
+BASS,57,size_mm,needs_review,Check original NASA source
+BASS,57,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,57,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,57,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,57,flow_direction,expected_missing,Not available in BASS table
+BASS,57,result,expected_missing,Result not available in BASS table
+BASS,110,shape,needs_review,Check original NASA source
+BASS,110,size_mm,needs_review,Check original NASA source
+BASS,110,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,110,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,110,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,110,flow_direction,expected_missing,Not available in BASS table
+BASS,110,result,expected_missing,Result not available in BASS table
+BASS,30,shape,needs_review,Check original NASA source
+BASS,30,size_mm,needs_review,Check original NASA source
+BASS,30,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,30,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,30,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,30,flow_direction,expected_missing,Not available in BASS table
+BASS,30,result,expected_missing,Result not available in BASS table
+BASS,31,shape,needs_review,Check original NASA source
+BASS,31,size_mm,needs_review,Check original NASA source
+BASS,31,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,31,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,31,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,31,flow_direction,expected_missing,Not available in BASS table
+BASS,31,result,expected_missing,Result not available in BASS table
+BASS,32,shape,needs_review,Check original NASA source
+BASS,32,size_mm,needs_review,Check original NASA source
+BASS,32,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,32,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,32,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,32,flow_direction,expected_missing,Not available in BASS table
+BASS,32,result,expected_missing,Result not available in BASS table
+BASS,33,shape,needs_review,Check original NASA source
+BASS,33,size_mm,needs_review,Check original NASA source
+BASS,33,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,33,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,33,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,33,flow_direction,expected_missing,Not available in BASS table
+BASS,33,result,expected_missing,Result not available in BASS table
+BASS,12-R,size_mm,needs_review,Check original NASA source
+BASS,12-R,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,12-R,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,12-R,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,12-R,flow_direction,expected_missing,Not available in BASS table
+BASS,12-R,result,expected_missing,Result not available in BASS table
+BASS,12-R2,size_mm,needs_review,Check original NASA source
+BASS,12-R2,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,12-R2,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,12-R2,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,12-R2,flow_direction,expected_missing,Not available in BASS table
+BASS,12-R2,result,expected_missing,Result not available in BASS table
+BASS,46,size_mm,needs_review,Check original NASA source
+BASS,46,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,46,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,46,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,46,flow_direction,expected_missing,Not available in BASS table
+BASS,46,result,expected_missing,Result not available in BASS table
+BASS,47,size_mm,needs_review,Check original NASA source
+BASS,47,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,47,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,47,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,47,flow_direction,expected_missing,Not available in BASS table
+BASS,47,result,expected_missing,Result not available in BASS table
+BASS,48,size_mm,needs_review,Check original NASA source
+BASS,48,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,48,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,48,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,48,flow_direction,expected_missing,Not available in BASS table
+BASS,48,result,expected_missing,Result not available in BASS table
+BASS,49,size_mm,needs_review,Check original NASA source
+BASS,49,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,49,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,49,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,49,flow_direction,expected_missing,Not available in BASS table
+BASS,49,result,expected_missing,Result not available in BASS table
+BASS,22,size_mm,needs_review,Check original NASA source
+BASS,22,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,22,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,22,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,22,flow_direction,expected_missing,Not available in BASS table
+BASS,22,result,expected_missing,Result not available in BASS table
+BASS,23,size_mm,needs_review,Check original NASA source
+BASS,23,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,23,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,23,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,23,flow_direction,expected_missing,Not available in BASS table
+BASS,23,result,expected_missing,Result not available in BASS table
+BASS,24,size_mm,needs_review,Check original NASA source
+BASS,24,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,24,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,24,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,24,flow_direction,expected_missing,Not available in BASS table
+BASS,24,result,expected_missing,Result not available in BASS table
+BASS,25,size_mm,needs_review,Check original NASA source
+BASS,25,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,25,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,25,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,25,flow_direction,expected_missing,Not available in BASS table
+BASS,25,result,expected_missing,Result not available in BASS table
+BASS,58,size_mm,needs_review,Check original NASA source
+BASS,58,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,58,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,58,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,58,flow_direction,expected_missing,Not available in BASS table
+BASS,58,result,expected_missing,Result not available in BASS table
+BASS,59,size_mm,needs_review,Check original NASA source
+BASS,59,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,59,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,59,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,59,flow_direction,expected_missing,Not available in BASS table
+BASS,59,result,expected_missing,Result not available in BASS table
+BASS,60,size_mm,needs_review,Check original NASA source
+BASS,60,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,60,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,60,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,60,flow_direction,expected_missing,Not available in BASS table
+BASS,60,result,expected_missing,Result not available in BASS table
+BASS,61,size_mm,needs_review,Check original NASA source
+BASS,61,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,61,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,61,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,61,flow_direction,expected_missing,Not available in BASS table
+BASS,61,result,expected_missing,Result not available in BASS table
+BASS,5,size_mm,needs_review,Check original NASA source
+BASS,5,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,5,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,5,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,5,flow_direction,expected_missing,Not available in BASS table
+BASS,5,result,expected_missing,Result not available in BASS table
+BASS,14,size_mm,needs_review,Check original NASA source
+BASS,14,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,14,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,14,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,14,flow_direction,expected_missing,Not available in BASS table
+BASS,14,result,expected_missing,Result not available in BASS table
+BASS,66,size_mm,needs_review,Check original NASA source
+BASS,66,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,66,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,66,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,66,flow_direction,expected_missing,Not available in BASS table
+BASS,66,result,expected_missing,Result not available in BASS table
+BASS,67,size_mm,needs_review,Check original NASA source
+BASS,67,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,67,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,67,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,67,flow_direction,expected_missing,Not available in BASS table
+BASS,67,result,expected_missing,Result not available in BASS table
+BASS,34,size_mm,needs_review,Check original NASA source
+BASS,34,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,34,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,34,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,34,flow_direction,expected_missing,Not available in BASS table
+BASS,34,result,expected_missing,Result not available in BASS table
+BASS,35,date,needs_review,Check original NASA source
+BASS,35,size_mm,needs_review,Check original NASA source
+BASS,35,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,35,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,35,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,35,flow_direction,expected_missing,Not available in BASS table
+BASS,35,result,expected_missing,Result not available in BASS table
+BASS,16,shape,needs_review,Check original NASA source
+BASS,16,size_mm,needs_review,Check original NASA source
+BASS,16,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,16,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,16,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,16,flow_direction,expected_missing,Not available in BASS table
+BASS,16,result,expected_missing,Result not available in BASS table
+BASS,5b,size_mm,needs_review,Check original NASA source
+BASS,5b,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,5b,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,5b,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,5b,flow_direction,expected_missing,Not available in BASS table
+BASS,5b,result,expected_missing,Result not available in BASS table
+BASS,6,size_mm,needs_review,Check original NASA source
+BASS,6,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,6,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,6,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,6,flow_direction,expected_missing,Not available in BASS table
+BASS,6,result,expected_missing,Result not available in BASS table
+BASS,82,size_mm,needs_review,Check original NASA source
+BASS,82,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,82,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,82,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,82,flow_direction,expected_missing,Not available in BASS table
+BASS,82,result,expected_missing,Result not available in BASS table
+BASS,82a,size_mm,needs_review,Check original NASA source
+BASS,82a,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,82a,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,82a,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,82a,flow_direction,expected_missing,Not available in BASS table
+BASS,82a,result,expected_missing,Result not available in BASS table
+BASS,82b,size_mm,needs_review,Check original NASA source
+BASS,82b,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,82b,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,82b,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,82b,flow_direction,expected_missing,Not available in BASS table
+BASS,82b,result,expected_missing,Result not available in BASS table
+BASS,68,size_mm,needs_review,Check original NASA source
+BASS,68,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,68,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,68,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,68,flow_direction,expected_missing,Not available in BASS table
+BASS,68,result,expected_missing,Result not available in BASS table
+BASS,69,size_mm,needs_review,Check original NASA source
+BASS,69,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,69,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,69,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,69,flow_direction,expected_missing,Not available in BASS table
+BASS,69,result,expected_missing,Result not available in BASS table
+BASS,111,size_mm,needs_review,Check original NASA source
+BASS,111,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,111,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,111,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,111,flow_direction,expected_missing,Not available in BASS table
+BASS,111,result,expected_missing,Result not available in BASS table
+BASS,112,size_mm,needs_review,Check original NASA source
+BASS,112,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,112,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,112,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,112,flow_direction,expected_missing,Not available in BASS table
+BASS,112,result,expected_missing,Result not available in BASS table
+BASS,113,size_mm,needs_review,Check original NASA source
+BASS,113,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,113,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,113,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,113,flow_direction,expected_missing,Not available in BASS table
+BASS,113,result,expected_missing,Result not available in BASS table
+BASS,2,size_mm,needs_review,Check original NASA source
+BASS,2,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,2,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,2,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,2,flow_direction,expected_missing,Not available in BASS table
+BASS,2,result,expected_missing,Result not available in BASS table
+BASS,3,size_mm,needs_review,Check original NASA source
+BASS,3,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,3,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,3,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,3,flow_direction,expected_missing,Not available in BASS table
+BASS,3,result,expected_missing,Result not available in BASS table
+BASS,15,size_mm,needs_review,Check original NASA source
+BASS,15,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,15,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,15,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,15,flow_direction,expected_missing,Not available in BASS table
+BASS,15,result,expected_missing,Result not available in BASS table
+BASS,13,size_mm,needs_review,Check original NASA source
+BASS,13,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,13,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,13,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,13,flow_direction,expected_missing,Not available in BASS table
+BASS,13,result,expected_missing,Result not available in BASS table
+BASS,17,shape,needs_review,Check original NASA source
+BASS,17,size_mm,needs_review,Check original NASA source
+BASS,17,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,17,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,17,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,17,flow_direction,expected_missing,Not available in BASS table
+BASS,17,result,expected_missing,Result not available in BASS table
+BASS,114,size_mm,needs_review,Check original NASA source
+BASS,114,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,114,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,114,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,114,flow_direction,expected_missing,Not available in BASS table
+BASS,114,result,expected_missing,Result not available in BASS table
+BASS,62,size_mm,needs_review,Check original NASA source
+BASS,62,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,62,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,62,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,62,flow_direction,expected_missing,Not available in BASS table
+BASS,62,result,expected_missing,Result not available in BASS table
+BASS,63,size_mm,needs_review,Check original NASA source
+BASS,63,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,63,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,63,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,63,flow_direction,expected_missing,Not available in BASS table
+BASS,63,result,expected_missing,Result not available in BASS table
+BASS,64,size_mm,needs_review,Check original NASA source
+BASS,64,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,64,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,64,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,64,flow_direction,expected_missing,Not available in BASS table
+BASS,64,result,expected_missing,Result not available in BASS table
+BASS,65,size_mm,needs_review,Check original NASA source
+BASS,65,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,65,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,65,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,65,flow_direction,expected_missing,Not available in BASS table
+BASS,65,result,expected_missing,Result not available in BASS table
+BASS,118,size_mm,needs_review,Check original NASA source
+BASS,118,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,118,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,118,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,118,flow_direction,expected_missing,Not available in BASS table
+BASS,118,result,expected_missing,Result not available in BASS table
+BASS,11,size_mm,needs_review,Check original NASA source
+BASS,11,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,11,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,11,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,11,flow_direction,expected_missing,Not available in BASS table
+BASS,11,result,expected_missing,Result not available in BASS table
+BASS,9,size_mm,needs_review,Check original NASA source
+BASS,9,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,9,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,9,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,9,flow_direction,expected_missing,Not available in BASS table
+BASS,9,result,expected_missing,Result not available in BASS table
+BASS,102,size_mm,needs_review,Check original NASA source
+BASS,102,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,102,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,102,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,102,flow_direction,expected_missing,Not available in BASS table
+BASS,102,result,expected_missing,Result not available in BASS table
+BASS,83a,size_mm,needs_review,Check original NASA source
+BASS,83a,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,83a,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,83a,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,83a,flow_direction,expected_missing,Not available in BASS table
+BASS,83a,result,expected_missing,Result not available in BASS table
+BASS,83b,size_mm,needs_review,Check original NASA source
+BASS,83b,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,83b,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,83b,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,83b,flow_direction,expected_missing,Not available in BASS table
+BASS,83b,result,expected_missing,Result not available in BASS table
+BASS,83c,size_mm,needs_review,Check original NASA source
+BASS,83c,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,83c,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,83c,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,83c,flow_direction,expected_missing,Not available in BASS table
+BASS,83c,result,expected_missing,Result not available in BASS table
+BASS,84a,size_mm,needs_review,Check original NASA source
+BASS,84a,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,84a,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,84a,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,84a,flow_direction,expected_missing,Not available in BASS table
+BASS,84a,result,expected_missing,Result not available in BASS table
+BASS,84b,size_mm,needs_review,Check original NASA source
+BASS,84b,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,84b,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,84b,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,84b,flow_direction,expected_missing,Not available in BASS table
+BASS,84b,result,expected_missing,Result not available in BASS table
+BASS,86a,size_mm,needs_review,Check original NASA source
+BASS,86a,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,86a,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,86a,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,86a,flow_direction,expected_missing,Not available in BASS table
+BASS,86a,result,expected_missing,Result not available in BASS table
+BASS,86b,size_mm,needs_review,Check original NASA source
+BASS,86b,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,86b,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,86b,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,86b,flow_direction,expected_missing,Not available in BASS table
+BASS,86b,result,expected_missing,Result not available in BASS table
+BASS,86c,size_mm,needs_review,Check original NASA source
+BASS,86c,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,86c,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,86c,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,86c,flow_direction,expected_missing,Not available in BASS table
+BASS,86c,result,expected_missing,Result not available in BASS table
+BASS,70,size_mm,needs_review,Check original NASA source
+BASS,70,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,70,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,70,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,70,flow_direction,expected_missing,Not available in BASS table
+BASS,70,result,expected_missing,Result not available in BASS table
+BASS,71,size_mm,needs_review,Check original NASA source
+BASS,71,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,71,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,71,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,71,flow_direction,expected_missing,Not available in BASS table
+BASS,71,result,expected_missing,Result not available in BASS table
+BASS,74,size_mm,needs_review,Check original NASA source
+BASS,74,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,74,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,74,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,74,flow_direction,expected_missing,Not available in BASS table
+BASS,74,result,expected_missing,Result not available in BASS table
+BASS,75,size_mm,needs_review,Check original NASA source
+BASS,75,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,75,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,75,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,75,flow_direction,expected_missing,Not available in BASS table
+BASS,75,result,expected_missing,Result not available in BASS table
+BASS,98,shape,needs_review,Check original NASA source
+BASS,98,size_mm,needs_review,Check original NASA source
+BASS,98,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,98,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,98,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,98,flow_direction,expected_missing,Not available in BASS table
+BASS,98,result,expected_missing,Result not available in BASS table
+BASS,99,shape,needs_review,Check original NASA source
+BASS,99,size_mm,needs_review,Check original NASA source
+BASS,99,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,99,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,99,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,99,flow_direction,expected_missing,Not available in BASS table
+BASS,99,result,expected_missing,Result not available in BASS table
+BASS,114,shape,needs_review,Check original NASA source
+BASS,114,size_mm,needs_review,Check original NASA source
+BASS,114,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,114,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,114,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,114,flow_direction,expected_missing,Not available in BASS table
+BASS,114,result,expected_missing,Result not available in BASS table
+BASS,115,shape,needs_review,Check original NASA source
+BASS,115,size_mm,needs_review,Check original NASA source
+BASS,115,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,115,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,115,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,115,flow_direction,expected_missing,Not available in BASS table
+BASS,115,result,expected_missing,Result not available in BASS table
+BASS,116,shape,needs_review,Check original NASA source
+BASS,116,size_mm,needs_review,Check original NASA source
+BASS,116,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,116,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,116,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,116,flow_direction,expected_missing,Not available in BASS table
+BASS,116,result,expected_missing,Result not available in BASS table
+BASS,117,shape,needs_review,Check original NASA source
+BASS,117,size_mm,needs_review,Check original NASA source
+BASS,117,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,117,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,117,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,117,flow_direction,expected_missing,Not available in BASS table
+BASS,117,result,expected_missing,Result not available in BASS table
+BASS,117a,shape,needs_review,Check original NASA source
+BASS,117a,size_mm,needs_review,Check original NASA source
+BASS,117a,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,117a,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,117a,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,117a,flow_direction,expected_missing,Not available in BASS table
+BASS,117a,result,expected_missing,Result not available in BASS table
+BASS,100,shape,needs_review,Check original NASA source
+BASS,100,size_mm,needs_review,Check original NASA source
+BASS,100,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,100,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,100,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,100,flow_direction,expected_missing,Not available in BASS table
+BASS,100,result,expected_missing,Result not available in BASS table
+BASS,85,size_mm,needs_review,Check original NASA source
+BASS,85,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,85,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,85,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,85,flow_direction,expected_missing,Not available in BASS table
+BASS,85,result,expected_missing,Result not available in BASS table
+BASS,93,size_mm,needs_review,Check original NASA source
+BASS,93,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,93,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,93,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,93,flow_direction,expected_missing,Not available in BASS table
+BASS,93,result,expected_missing,Result not available in BASS table
+BASS,26,shape,needs_review,Check original NASA source
+BASS,26,size_mm,needs_review,Check original NASA source
+BASS,26,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,26,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,26,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,26,flow_direction,expected_missing,Not available in BASS table
+BASS,26,result,expected_missing,Result not available in BASS table
+BASS,27,shape,needs_review,Check original NASA source
+BASS,27,size_mm,needs_review,Check original NASA source
+BASS,27,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,27,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,27,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,27,flow_direction,expected_missing,Not available in BASS table
+BASS,27,result,expected_missing,Result not available in BASS table
+BASS,28,shape,needs_review,Check original NASA source
+BASS,28,size_mm,needs_review,Check original NASA source
+BASS,28,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,28,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,28,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,28,flow_direction,expected_missing,Not available in BASS table
+BASS,28,result,expected_missing,Result not available in BASS table
+BASS,87,size_mm,needs_review,Check original NASA source
+BASS,87,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,87,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,87,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,87,flow_direction,expected_missing,Not available in BASS table
+BASS,87,result,expected_missing,Result not available in BASS table
+BASS,103,size_mm,needs_review,Check original NASA source
+BASS,103,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,103,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,103,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,103,flow_direction,expected_missing,Not available in BASS table
+BASS,103,result,expected_missing,Result not available in BASS table
+BASS,104,size_mm,needs_review,Check original NASA source
+BASS,104,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,104,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,104,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,104,flow_direction,expected_missing,Not available in BASS table
+BASS,104,result,expected_missing,Result not available in BASS table
+BASS,105,size_mm,needs_review,Check original NASA source
+BASS,105,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,105,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,105,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,105,flow_direction,expected_missing,Not available in BASS table
+BASS,105,result,expected_missing,Result not available in BASS table
+BASS,38,size_mm,needs_review,Check original NASA source
+BASS,38,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,38,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,38,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,38,flow_direction,expected_missing,Not available in BASS table
+BASS,38,result,expected_missing,Result not available in BASS table
+BASS,39,size_mm,needs_review,Check original NASA source
+BASS,39,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,39,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,39,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,39,flow_direction,expected_missing,Not available in BASS table
+BASS,39,result,expected_missing,Result not available in BASS table
+BASS,40,size_mm,needs_review,Check original NASA source
+BASS,40,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,40,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,40,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,40,flow_direction,expected_missing,Not available in BASS table
+BASS,40,result,expected_missing,Result not available in BASS table
+BASS,72,size_mm,needs_review,Check original NASA source
+BASS,72,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,72,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,72,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,72,flow_direction,expected_missing,Not available in BASS table
+BASS,72,result,expected_missing,Result not available in BASS table
+BASS,73,size_mm,needs_review,Check original NASA source
+BASS,73,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,73,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,73,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,73,flow_direction,expected_missing,Not available in BASS table
+BASS,73,result,expected_missing,Result not available in BASS table
+BASS,118,size_mm,needs_review,Check original NASA source
+BASS,118,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,118,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,118,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,118,flow_direction,expected_missing,Not available in BASS table
+BASS,118,result,expected_missing,Result not available in BASS table
+BASS,119,size_mm,needs_review,Check original NASA source
+BASS,119,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,119,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,119,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,119,flow_direction,expected_missing,Not available in BASS table
+BASS,119,result,expected_missing,Result not available in BASS table
+BASS,89,size_mm,needs_review,Check original NASA source
+BASS,89,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,89,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,89,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,89,flow_direction,expected_missing,Not available in BASS table
+BASS,89,result,expected_missing,Result not available in BASS table
+BASS,95,size_mm,needs_review,Check original NASA source
+BASS,95,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,95,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,95,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,95,flow_direction,expected_missing,Not available in BASS table
+BASS,95,result,expected_missing,Result not available in BASS table
+BASS,92,size_mm,needs_review,Check original NASA source
+BASS,92,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,92,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,92,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,92,flow_direction,expected_missing,Not available in BASS table
+BASS,92,result,expected_missing,Result not available in BASS table
+BASS,78,size_mm,needs_review,Check original NASA source
+BASS,78,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,78,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,78,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,78,flow_direction,expected_missing,Not available in BASS table
+BASS,78,result,expected_missing,Result not available in BASS table
+BASS,50,size_mm,needs_review,Check original NASA source
+BASS,50,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,50,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,50,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,50,flow_direction,expected_missing,Not available in BASS table
+BASS,50,result,expected_missing,Result not available in BASS table
+BASS,51,size_mm,needs_review,Check original NASA source
+BASS,51,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,51,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,51,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,51,flow_direction,expected_missing,Not available in BASS table
+BASS,51,result,expected_missing,Result not available in BASS table
+BASS,52,size_mm,needs_review,Check original NASA source
+BASS,52,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,52,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,52,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,52,flow_direction,expected_missing,Not available in BASS table
+BASS,52,result,expected_missing,Result not available in BASS table
+BASS,53,size_mm,needs_review,Check original NASA source
+BASS,53,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,53,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,53,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,53,flow_direction,expected_missing,Not available in BASS table
+BASS,53,result,expected_missing,Result not available in BASS table
+BASS,106,size_mm,needs_review,Check original NASA source
+BASS,106,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,106,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,106,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,106,flow_direction,expected_missing,Not available in BASS table
+BASS,106,result,expected_missing,Result not available in BASS table
+BASS,107,size_mm,needs_review,Check original NASA source
+BASS,107,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,107,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,107,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,107,flow_direction,expected_missing,Not available in BASS table
+BASS,107,result,expected_missing,Result not available in BASS table
+BASS,108,size_mm,needs_review,Check original NASA source
+BASS,108,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,108,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,108,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,108,flow_direction,expected_missing,Not available in BASS table
+BASS,108,result,expected_missing,Result not available in BASS table
+BASS,109,size_mm,needs_review,Check original NASA source
+BASS,109,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,109,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,109,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,109,flow_direction,expected_missing,Not available in BASS table
+BASS,109,result,expected_missing,Result not available in BASS table
+BASS,79,size_mm,needs_review,Check original NASA source
+BASS,79,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,79,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,79,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,79,flow_direction,expected_missing,Not available in BASS table
+BASS,79,result,expected_missing,Result not available in BASS table
+BASS,80,size_mm,needs_review,Check original NASA source
+BASS,80,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,80,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,80,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,80,flow_direction,expected_missing,Not available in BASS table
+BASS,80,result,expected_missing,Result not available in BASS table
+BASS,75,size_mm,needs_review,Check original NASA source
+BASS,75,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,75,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,75,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,75,flow_direction,expected_missing,Not available in BASS table
+BASS,75,result,expected_missing,Result not available in BASS table
+BASS,53,size_mm,needs_review,Check original NASA source
+BASS,53,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,53,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,53,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,53,flow_direction,expected_missing,Not available in BASS table
+BASS,53,result,expected_missing,Result not available in BASS table
+BASS,53a,size_mm,needs_review,Check original NASA source
+BASS,53a,oxygen_pct,expected_missing,Oxygen not recorded in BASS table
+BASS,53a,airflow_start_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,53a,airflow_min_cm_s,expected_missing,Airflow not recorded in BASS table
+BASS,53a,flow_direction,expected_missing,Not available in BASS table
+BASS,53a,result,expected_missing,Result not available in BASS table
+SAFFIRE-I,S1,date,needs_review,Check original NASA source
+SAFFIRE-I,S1,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-I,S1,notes,needs_review,Check original NASA source
+SAFFIRE-I,S2,date,needs_review,Check original NASA source
+SAFFIRE-I,S2,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-I,S2,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-1,date,needs_review,Check original NASA source
+SAFFIRE-II,2-1,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-1,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-2,date,needs_review,Check original NASA source
+SAFFIRE-II,2-2,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-2,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-3,date,needs_review,Check original NASA source
+SAFFIRE-II,2-3,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-3,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-4,date,needs_review,Check original NASA source
+SAFFIRE-II,2-4,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-4,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-5,date,needs_review,Check original NASA source
+SAFFIRE-II,2-5,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-5,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-6,date,needs_review,Check original NASA source
+SAFFIRE-II,2-6,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-6,material_text,needs_review,Check original NASA source
+SAFFIRE-II,2-6,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-7,date,needs_review,Check original NASA source
+SAFFIRE-II,2-7,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-7,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-8,date,needs_review,Check original NASA source
+SAFFIRE-II,2-8,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-8,notes,needs_review,Check original NASA source
+SAFFIRE-II,2-9,date,needs_review,Check original NASA source
+SAFFIRE-II,2-9,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-II,2-9,material_text,needs_review,Check original NASA source
+SAFFIRE-II,2-9,notes,needs_review,Check original NASA source
+SAFFIRE-III,S1,date,needs_review,Check original NASA source
+SAFFIRE-III,S1,oxygen_pct,expected_missing,Oxygen not reported for these tests
+SAFFIRE-III,S1,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-III,S1,result,needs_review,Check original NASA source
+SAFFIRE-III,S1,notes,needs_review,Check original NASA source
+SAFFIRE-III,S2,date,needs_review,Check original NASA source
+SAFFIRE-III,S2,oxygen_pct,expected_missing,Oxygen not reported for these tests
+SAFFIRE-III,S2,airflow_min_cm_s,needs_review,Check original NASA source
+SAFFIRE-III,S2,result,needs_review,Check original NASA source
+SAFFIRE-III,S2,notes,needs_review,Check original NASA source

@@ -1,0 +1,1184 @@
+experiment,test,date,material,missing_column,notes
+BASS-II,B1,2014-02-19,PMMA (acrylic),flow_direction,
+BASS-II,B1,2014-02-19,PMMA (acrylic),result,
+BASS-II,B1,2014-02-19,PMMA (acrylic),notes,
+BASS-II,B2,2014-02-19,PMMA (acrylic),flow_direction,
+BASS-II,B2,2014-02-19,PMMA (acrylic),result,
+BASS-II,B2,2014-02-19,PMMA (acrylic),notes,
+BASS-II,B3,2014-02-19,PMMA (acrylic),flow_direction,
+BASS-II,B3,2014-02-19,PMMA (acrylic),result,
+BASS-II,B3,2014-02-19,PMMA (acrylic),notes,
+BASS-II,B4,2014-02-19,PMMA (acrylic),flow_direction,
+BASS-II,B4,2014-02-19,PMMA (acrylic),result,
+BASS-II,B4,2014-02-19,PMMA (acrylic),notes,
+BASS-II,B5,2014-02-19,PMMA (assumed),shape,
+BASS-II,B5,2014-02-19,PMMA (assumed),flow_direction,
+BASS-II,B5,2014-02-19,PMMA (assumed),result,
+BASS-II,B5,2014-02-19,PMMA (assumed),notes,
+BASS-II,B6,2014-07-07,PMMA (acrylic),flow_direction,3   5   approaching 10
+BASS-II,B6,2014-07-07,PMMA (acrylic),result,3   5   approaching 10
+BASS-II,B7,2014-02-19,PMMA (acrylic),flow_direction,
+BASS-II,B7,2014-02-19,PMMA (acrylic),result,
+BASS-II,B7,2014-02-19,PMMA (acrylic),notes,
+BASS-II,B8,2014-07-07,PMMA (acrylic),flow_direction,10   max
+BASS-II,B8,2014-07-07,PMMA (acrylic),result,10   max
+BASS-II,B9,2014-07-07,PMMA (acrylic),flow_direction,
+BASS-II,B9,2014-07-07,PMMA (acrylic),result,
+BASS-II,B9,2014-07-07,PMMA (acrylic),notes,
+BASS-II,B10,2014-07-07,PMMA (acrylic),flow_direction,
+BASS-II,B10,2014-07-07,PMMA (acrylic),result,
+BASS-II,B10,2014-07-07,PMMA (acrylic),notes,
+BASS-II,B11,2014-07-07,PMMA (acrylic),flow_direction,
+BASS-II,B11,2014-07-07,PMMA (acrylic),result,
+BASS-II,B11,2014-07-07,PMMA (acrylic),notes,
+BASS-II,B12,2014-02-19,PMMA (acrylic),flow_direction,
+BASS-II,B12,2014-02-19,PMMA (acrylic),result,
+BASS-II,B12,2014-02-19,PMMA (acrylic),notes,
+BASS-II,B13,2014-07-07,PMMA (acrylic),flow_direction,
+BASS-II,B13,2014-07-07,PMMA (acrylic),result,
+BASS-II,B13,2014-07-07,PMMA (acrylic),notes,
+BASS-II,B14,2014-07-02,PMMA (acrylic),shape,5  3  2   ext
+BASS-II,B14,2014-07-02,PMMA (acrylic),flow_direction,5  3  2   ext
+BASS-II,B15,2014-07-07,PMMA (acrylic),flow_direction,10   max
+BASS-II,B15,2014-07-07,PMMA (acrylic),result,10   max
+BASS-II,B16,2014-07-02,PMMA (acrylic),shape,3  0.5 pot   0.4 pot
+BASS-II,B16,2014-07-02,PMMA (acrylic),flow_direction,3  0.5 pot   0.4 pot
+BASS-II,B16,2014-07-02,PMMA (acrylic),result,3  0.5 pot   0.4 pot
+BASS-II,B17,2014-07-02,PMMA (acrylic),shape,5   3    pot 0.4
+BASS-II,B17,2014-07-02,PMMA (acrylic),flow_direction,5   3    pot 0.4
+BASS-II,B17,2014-07-02,PMMA (acrylic),result,5   3    pot 0.4
+BASS-II,B18,2014-07-02,PMMA (acrylic),shape,10   blowoff
+BASS-II,B18,2014-07-02,PMMA (acrylic),flow_direction,10   blowoff
+BASS-II,B19,2014-07-02,PMMA (acrylic),shape,10   blowoff
+BASS-II,B19,2014-07-02,PMMA (acrylic),flow_direction,10   blowoff
+BASS-II,B20,2014-07-02,PMMA (acrylic),shape,5   3      pot 0.5
+BASS-II,B20,2014-07-02,PMMA (acrylic),flow_direction,5   3      pot 0.5
+BASS-II,B20,2014-07-02,PMMA (acrylic),result,5   3      pot 0.5
+BASS-II,B21,2014-08-04,PMMA (acrylic),shape,5 down to ext
+BASS-II,B21,2014-08-04,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,B22,2014-08-04,PMMA (acrylic),shape,
+BASS-II,B22,2014-08-04,PMMA (acrylic),flow_direction,
+BASS-II,B22,2014-08-04,PMMA (acrylic),result,
+BASS-II,B22,2014-08-04,PMMA (acrylic),notes,
+BASS-II,F1,2014-02-19,Nomex,size_mm,
+BASS-II,F1,2014-02-19,Nomex,flow_direction,
+BASS-II,F1,2014-02-19,Nomex,result,
+BASS-II,F1,2014-02-19,Nomex,notes,
+BASS-II,F2,2014-07-28,Nomex,size_mm,
+BASS-II,F2,2014-07-28,Nomex,flow_direction,
+BASS-II,F2,2014-07-28,Nomex,result,
+BASS-II,F2,2014-07-28,Nomex,notes,
+BASS-II,F3,2014-08-01,Nomex,size_mm,
+BASS-II,F3,2014-08-01,Nomex,flow_direction,
+BASS-II,F3,2014-08-01,Nomex,result,
+BASS-II,F3,2014-08-01,Nomex,notes,
+BASS-II,F4,2014-06-24,candle wax,size_mm,3 ign
+BASS-II,F4,2014-06-24,candle wax,flow_direction,3 ign
+BASS-II,F4,2014-06-24,candle wax,result,3 ign
+BASS-II,M1,2014-02-20,PMMA (acrylic),shape,
+BASS-II,M1,2014-02-20,PMMA (acrylic),flow_direction,
+BASS-II,M1,2014-02-20,PMMA (acrylic),result,
+BASS-II,M1,2014-02-20,PMMA (acrylic),notes,
+BASS-II,M2,2014-02-20,PMMA (acrylic),shape,
+BASS-II,M2,2014-02-20,PMMA (acrylic),flow_direction,
+BASS-II,M2,2014-02-20,PMMA (acrylic),result,
+BASS-II,M2,2014-02-20,PMMA (acrylic),notes,
+BASS-II,M3,2014-07-11,PMMA (acrylic),shape,
+BASS-II,M3,2014-07-11,PMMA (acrylic),flow_direction,
+BASS-II,M3,2014-07-11,PMMA (acrylic),result,
+BASS-II,M3,2014-07-11,PMMA (acrylic),notes,
+BASS-II,M4,2014-07-31,PMMA (acrylic),shape,
+BASS-II,M4,2014-07-31,PMMA (acrylic),flow_direction,
+BASS-II,M4,2014-07-31,PMMA (acrylic),result,
+BASS-II,M4,2014-07-31,PMMA (acrylic),notes,
+BASS-II,M5,2014-02-20,PMMA (acrylic),shape,
+BASS-II,M5,2014-02-20,PMMA (acrylic),flow_direction,
+BASS-II,M5,2014-02-20,PMMA (acrylic),result,
+BASS-II,M5,2014-02-20,PMMA (acrylic),notes,
+BASS-II,M6,2014-07-31,PMMA (acrylic),shape,
+BASS-II,M6,2014-07-31,PMMA (acrylic),flow_direction,
+BASS-II,M6,2014-07-31,PMMA (acrylic),result,
+BASS-II,M6,2014-07-31,PMMA (acrylic),notes,
+BASS-II,M7,2014-07-11,PMMA (acrylic),shape,
+BASS-II,M7,2014-07-11,PMMA (acrylic),flow_direction,
+BASS-II,M7,2014-07-11,PMMA (acrylic),result,
+BASS-II,M7,2014-07-11,PMMA (acrylic),notes,
+BASS-II,M8,2014-07-11,PMMA (acrylic),shape,10   5>7  5 decr
+BASS-II,M8,2014-07-11,PMMA (acrylic),flow_direction,10   5>7  5 decr
+BASS-II,M8,2014-07-11,PMMA (acrylic),result,10   5>7  5 decr
+BASS-II,M9,2014-07-11,PMMA (acrylic),shape,
+BASS-II,M9,2014-07-11,PMMA (acrylic),flow_direction,
+BASS-II,M9,2014-07-11,PMMA (acrylic),result,
+BASS-II,M9,2014-07-11,PMMA (acrylic),notes,
+BASS-II,M10,2014-07-23,PMMA (acrylic),flow_direction,
+BASS-II,M10,2014-07-23,PMMA (acrylic),result,
+BASS-II,M10,2014-07-23,PMMA (acrylic),notes,
+BASS-II,M11,2014-07-11,PMMA (acrylic),shape,
+BASS-II,M11,2014-07-11,PMMA (acrylic),flow_direction,
+BASS-II,M11,2014-07-11,PMMA (acrylic),result,
+BASS-II,M11,2014-07-11,PMMA (acrylic),notes,
+BASS-II,M12,2014-07-31,PMMA (acrylic),shape,
+BASS-II,M12,2014-07-31,PMMA (acrylic),flow_direction,
+BASS-II,M12,2014-07-31,PMMA (acrylic),result,
+BASS-II,M12,2014-07-31,PMMA (acrylic),notes,
+BASS-II,M13,2014-07-31,PMMA (acrylic),shape,
+BASS-II,M13,2014-07-31,PMMA (acrylic),flow_direction,
+BASS-II,M13,2014-07-31,PMMA (acrylic),result,
+BASS-II,M13,2014-07-31,PMMA (acrylic),notes,
+BASS-II,M14,2014-02-20,PMMA (acrylic),shape,
+BASS-II,M14,2014-02-20,PMMA (acrylic),flow_direction,
+BASS-II,M14,2014-02-20,PMMA (acrylic),result,
+BASS-II,M14,2014-02-20,PMMA (acrylic),notes,
+BASS-II,M15,2014-07-07,PMMA (acrylic),flow_direction,
+BASS-II,M15,2014-07-07,PMMA (acrylic),result,
+BASS-II,M15,2014-07-07,PMMA (acrylic),notes,
+BASS-II,M16,2014-07-23,PMMA (acrylic),shape,
+BASS-II,M16,2014-07-23,PMMA (acrylic),flow_direction,
+BASS-II,M16,2014-07-23,PMMA (acrylic),result,
+BASS-II,M16,2014-07-23,PMMA (acrylic),notes,
+BASS-II,M17,2014-07-15,PMMA (acrylic),shape,10   5   3   0ext
+BASS-II,M17,2014-07-15,PMMA (acrylic),flow_direction,10   5   3   0ext
+BASS-II,M18,2014-07-15,PMMA (acrylic),shape,10   15 (brief)   10   8
+BASS-II,M18,2014-07-15,PMMA (acrylic),flow_direction,10   15 (brief)   10   8
+BASS-II,M18,2014-07-15,PMMA (acrylic),result,10   15 (brief)   10   8
+BASS-II,M19,2014-07-23,PMMA (acrylic),flow_direction,
+BASS-II,M19,2014-07-23,PMMA (acrylic),result,
+BASS-II,M19,2014-07-23,PMMA (acrylic),notes,
+BASS-II,M20,2014-08-01,PMMA (acrylic),shape,
+BASS-II,M20,2014-08-01,PMMA (acrylic),flow_direction,
+BASS-II,M20,2014-08-01,PMMA (acrylic),result,
+BASS-II,M20,2014-08-01,PMMA (acrylic),notes,
+BASS-II,O1,2014-02-18,PMMA (acrylic),flow_direction,
+BASS-II,O1,2014-02-18,PMMA (acrylic),result,
+BASS-II,O1,2014-02-18,PMMA (acrylic),notes,
+BASS-II,O2,2014-02-18,PMMA (acrylic),flow_direction,
+BASS-II,O2,2014-02-18,PMMA (acrylic),result,
+BASS-II,O2,2014-02-18,PMMA (acrylic),notes,
+BASS-II,O3a,2014-06-13,PMMA (acrylic),flow_direction,
+BASS-II,O3a,2014-06-13,PMMA (acrylic),result,
+BASS-II,O3a,2014-06-13,PMMA (acrylic),notes,
+BASS-II,O3b,2014-06-13,PMMA (acrylic),flow_direction,5  3  2  1  low
+BASS-II,O3b,2014-06-13,PMMA (acrylic),result,5  3  2  1  low
+BASS-II,O4,2014-07-08,PMMA (acrylic),flow_direction,5   down to ext
+BASS-II,O5a,2014-07-21,PMMA (acrylic),flow_direction,
+BASS-II,O5a,2014-07-21,PMMA (acrylic),result,
+BASS-II,O5a,2014-07-21,PMMA (acrylic),notes,
+BASS-II,O5b,2014-07-21,PMMA (acrylic),flow_direction,49   5 cm/s
+BASS-II,O5b,2014-07-21,PMMA (acrylic),result,49   5 cm/s
+BASS-II,O6,2014-06-26,PMMA (acrylic),airflow_start_cm_s,see fan
+BASS-II,O6,2014-06-26,PMMA (acrylic),airflow_min_cm_s,see fan
+BASS-II,O6,2014-06-26,PMMA (acrylic),flow_direction,see fan
+BASS-II,O6,2014-06-26,PMMA (acrylic),result,see fan
+BASS-II,O7,2014-06-26,PMMA (acrylic),airflow_start_cm_s,
+BASS-II,O7,2014-06-26,PMMA (acrylic),airflow_min_cm_s,
+BASS-II,O7,2014-06-26,PMMA (acrylic),flow_direction,
+BASS-II,O7,2014-06-26,PMMA (acrylic),result,
+BASS-II,O7,2014-06-26,PMMA (acrylic),notes,
+BASS-II,O8a,2014-06-26,PMMA (acrylic),airflow_start_cm_s,
+BASS-II,O8a,2014-06-26,PMMA (acrylic),airflow_min_cm_s,
+BASS-II,O8a,2014-06-26,PMMA (acrylic),flow_direction,
+BASS-II,O8a,2014-06-26,PMMA (acrylic),result,
+BASS-II,O8a,2014-06-26,PMMA (acrylic),notes,
+BASS-II,O8b,2014-06-26,PMMA (acrylic),airflow_start_cm_s,
+BASS-II,O8b,2014-06-26,PMMA (acrylic),airflow_min_cm_s,
+BASS-II,O8b,2014-06-26,PMMA (acrylic),flow_direction,
+BASS-II,O8b,2014-06-26,PMMA (acrylic),result,
+BASS-II,O8b,2014-06-26,PMMA (acrylic),notes,
+BASS-II,O9,2014-06-26,PMMA (acrylic),airflow_start_cm_s,
+BASS-II,O9,2014-06-26,PMMA (acrylic),airflow_min_cm_s,
+BASS-II,O9,2014-06-26,PMMA (acrylic),flow_direction,
+BASS-II,O9,2014-06-26,PMMA (acrylic),result,
+BASS-II,O9,2014-06-26,PMMA (acrylic),notes,
+BASS-II,O10,2014-07-22,PMMA (acrylic),flow_direction,5  2   0   max
+BASS-II,O10,2014-07-22,PMMA (acrylic),result,5  2   0   max
+BASS-II,O11,2014-07-08,PMMA (acrylic),flow_direction,5   down then blowoff
+BASS-II,O12,2014-07-08,PMMA (acrylic),airflow_start_cm_s,no ign at any flow
+BASS-II,O12,2014-07-08,PMMA (acrylic),airflow_min_cm_s,no ign at any flow
+BASS-II,O12,2014-07-08,PMMA (acrylic),flow_direction,no ign at any flow
+BASS-II,O12,2014-07-08,PMMA (acrylic),result,no ign at any flow
+BASS-II,O13a,2014-07-21,PMMA (acrylic),flow_direction,
+BASS-II,O13a,2014-07-21,PMMA (acrylic),result,
+BASS-II,O13a,2014-07-21,PMMA (acrylic),notes,
+BASS-II,O13b,2014-07-21,PMMA (acrylic),flow_direction,
+BASS-II,O13b,2014-07-21,PMMA (acrylic),result,
+BASS-II,O13b,2014-07-21,PMMA (acrylic),notes,
+BASS-II,O14,2014-08-01,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,O15a,2014-07-28,PMMA (acrylic),flow_direction,
+BASS-II,O15a,2014-07-28,PMMA (acrylic),result,
+BASS-II,O15a,2014-07-28,PMMA (acrylic),notes,
+BASS-II,O15b,2014-07-28,PMMA (acrylic),flow_direction,
+BASS-II,O15b,2014-07-28,PMMA (acrylic),result,
+BASS-II,O15b,2014-07-28,PMMA (acrylic),notes,
+BASS-II,O16,2014-07-29,PMMA (acrylic),flow_direction,
+BASS-II,O16,2014-07-29,PMMA (acrylic),result,
+BASS-II,O16,2014-07-29,PMMA (acrylic),notes,
+BASS-II,O17,2014-07-22,PMMA (acrylic),flow_direction,
+BASS-II,O17,2014-07-22,PMMA (acrylic),result,
+BASS-II,O17,2014-07-22,PMMA (acrylic),notes,
+BASS-II,O18,2014-07-28,PMMA (acrylic),flow_direction,
+BASS-II,O18,2014-07-28,PMMA (acrylic),result,
+BASS-II,O18,2014-07-28,PMMA (acrylic),notes,
+BASS-II,O19,2014-08-01,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,O20,2016-02-26,PMMA (acrylic),flow_direction,5   8    incr to max 38.5
+BASS-II,O20,2016-02-26,PMMA (acrylic),result,5   8    incr to max 38.5
+BASS-II,O21,2016-02-26,PMMA (acrylic),flow_direction,incr to 28
+BASS-II,O21,2016-02-26,PMMA (acrylic),result,incr to 28
+BASS-II,O22,2016-02-26,PMMA (acrylic),flow_direction,4 incr to 26.5
+BASS-II,O22,2016-02-26,PMMA (acrylic),result,4 incr to 26.5
+BASS-II,P1,2014-06-16,PMMA (acrylic),flow_direction,5  2   slow decr to ext
+BASS-II,P2,2014-06-16,PMMA (acrylic),flow_direction,5   2.5   2 (pot .9   .5   .35.  .33)
+BASS-II,P2,2014-06-16,PMMA (acrylic),result,5   2.5   2 (pot .9   .5   .35.  .33)
+BASS-II,P3a,2014-06-16,PMMA (acrylic),flow_direction,
+BASS-II,P3a,2014-06-16,PMMA (acrylic),result,
+BASS-II,P3a,2014-06-16,PMMA (acrylic),notes,
+BASS-II,P3b,2014-06-16,PMMA (acrylic),flow_direction,5   very low (0.85   0.32   0.31   0.305   0.30   0.295)
+BASS-II,P3b,2014-06-16,PMMA (acrylic),result,5   very low (0.85   0.32   0.31   0.305   0.30   0.295)
+BASS-II,P4,2014-07-03,PMMA (acrylic),flow_direction,5   pots 0.4   0.36   0.32   0.308   .3   off
+BASS-II,P4,2014-07-03,PMMA (acrylic),result,5   pots 0.4   0.36   0.32   0.308   .3   off
+BASS-II,P5,2014-07-14,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,P6,2014-07-03,PMMA (acrylic),flow_direction,5   pots 0.4   0.36   0.32   0.31   off
+BASS-II,P6,2014-07-03,PMMA (acrylic),result,5   pots 0.4   0.36   0.32   0.31   off
+BASS-II,P8,2014-07-03,PMMA (acrylic),flow_direction,5   would not stay lit   10   15 ibid
+BASS-II,P8,2014-07-03,PMMA (acrylic),result,5   would not stay lit   10   15 ibid
+BASS-II,P9,2014-07-14,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,P10,2014-07-03,PMMA (acrylic),flow_direction,5   pots 0.4   0.36   0.32   0.31   0.30 extinguished
+BASS-II,P12,2014-07-29,PMMA (acrylic),flow_direction,5   3  2  1   0.5   lower
+BASS-II,P12,2014-07-29,PMMA (acrylic),result,5   3  2  1   0.5   lower
+BASS-II,P13a,2014-07-14,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,P13b,2014-07-14,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,P14,2014-06-23,PMMA (acrylic),flow_direction,5   low (.85   .4   .32)
+BASS-II,P14,2014-06-23,PMMA (acrylic),result,5   low (.85   .4   .32)
+BASS-II,P15,2014-06-23,PMMA (acrylic),flow_direction,
+BASS-II,P15,2014-06-23,PMMA (acrylic),result,
+BASS-II,P15,2014-06-23,PMMA (acrylic),notes,
+BASS-II,P16,2014-07-22,PMMA (acrylic),flow_direction,5  8  2  low
+BASS-II,P16,2014-07-22,PMMA (acrylic),result,5  8  2  low
+BASS-II,P17,2014-07-29,PMMA (acrylic),flow_direction,5   3   2   22   2   low
+BASS-II,P17,2014-07-29,PMMA (acrylic),result,5   3   2   22   2   low
+BASS-II,P18,2014-07-30,PMMA (acrylic),flow_direction,2  0  2  0  etc
+BASS-II,P18,2014-07-30,PMMA (acrylic),result,2  0  2  0  etc
+BASS-II,P19,2014-07-22,PMMA (acrylic),flow_direction,5  8  2  max   0
+BASS-II,P19,2014-07-22,PMMA (acrylic),result,5  8  2  max   0
+BASS-II,P20,2014-07-30,PMMA (acrylic),flow_direction,2  0  2  0  etc
+BASS-II,P20,2014-07-30,PMMA (acrylic),result,2  0  2  0  etc
+BASS-II,P21a,2014-06-23,PMMA (acrylic),flow_direction,
+BASS-II,P21a,2014-06-23,PMMA (acrylic),result,
+BASS-II,P21a,2014-06-23,PMMA (acrylic),notes,
+BASS-II,P21b,2014-06-23,PMMA (acrylic),flow_direction,
+BASS-II,P21b,2014-06-23,PMMA (acrylic),result,
+BASS-II,P21b,2014-06-23,PMMA (acrylic),notes,
+BASS-II,P22a,2014-07-08,PMMA (acrylic),flow_direction,5   down to ext
+BASS-II,P22b,2014-07-08,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,P23,2014-07-30,PMMA (acrylic),flow_direction,2  0  2  0  etc
+BASS-II,P23,2014-07-30,PMMA (acrylic),result,2  0  2  0  etc
+BASS-II,P24,2014-07-30,PMMA (acrylic),flow_direction,2  0  2  0  etc
+BASS-II,P24,2014-07-30,PMMA (acrylic),result,2  0  2  0  etc
+BASS-II,P25,2014-07-08,PMMA (acrylic),flow_direction,5 down to ext
+BASS-II,T1,2014-02-14,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T1,2014-02-14,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T1,2014-02-14,SIBAL (cotton-fiberglass),result,
+BASS-II,T1,2014-02-14,SIBAL (cotton-fiberglass),notes,
+BASS-II,T2,2014-02-14,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T2,2014-02-14,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T2,2014-02-14,SIBAL (cotton-fiberglass),result,
+BASS-II,T2,2014-02-14,SIBAL (cotton-fiberglass),notes,
+BASS-II,T3,2014-06-27,not stated,size_mm,
+BASS-II,T3,2014-06-27,not stated,flow_direction,
+BASS-II,T3,2014-06-27,not stated,result,
+BASS-II,T3,2014-06-27,not stated,notes,
+BASS-II,T4,2014-02-14,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T4,2014-02-14,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T4,2014-02-14,SIBAL (cotton-fiberglass),result,
+BASS-II,T4,2014-02-14,SIBAL (cotton-fiberglass),notes,
+BASS-II,T5,2014-04-10,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T5,2014-04-10,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T5,2014-04-10,SIBAL (cotton-fiberglass),result,
+BASS-II,T5,2014-04-10,SIBAL (cotton-fiberglass),notes,
+BASS-II,T6,2014-04-10,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T6,2014-04-10,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T6,2014-04-10,SIBAL (cotton-fiberglass),result,
+BASS-II,T6,2014-04-10,SIBAL (cotton-fiberglass),notes,
+BASS-II,T7,2014-07-09,not stated,size_mm,10   5  3  1   decr
+BASS-II,T7,2014-07-09,not stated,flow_direction,10   5  3  1   decr
+BASS-II,T7,2014-07-09,not stated,result,10   5  3  1   decr
+BASS-II,T9,2018-06-24,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T9,2018-06-24,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T9,2018-06-24,SIBAL (cotton-fiberglass),result,
+BASS-II,T9,2018-06-24,SIBAL (cotton-fiberglass),notes,
+BASS-II,T10,2014-06-24,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T10,2014-06-24,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T10,2014-06-24,SIBAL (cotton-fiberglass),result,
+BASS-II,T10,2014-06-24,SIBAL (cotton-fiberglass),notes,
+BASS-II,T11,2014-06-27,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T11,2014-06-27,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T11,2014-06-27,SIBAL (cotton-fiberglass),result,
+BASS-II,T11,2014-06-27,SIBAL (cotton-fiberglass),notes,
+BASS-II,T12,2014-06-27,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T12,2014-06-27,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T12,2014-06-27,SIBAL (cotton-fiberglass),result,
+BASS-II,T12,2014-06-27,SIBAL (cotton-fiberglass),notes,
+BASS-II,T13,2014-04-10,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T13,2014-04-10,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T13,2014-04-10,SIBAL (cotton-fiberglass),result,
+BASS-II,T13,2014-04-10,SIBAL (cotton-fiberglass),notes,
+BASS-II,T14,2014-06-27,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T14,2014-06-27,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T14,2014-06-27,SIBAL (cotton-fiberglass),result,
+BASS-II,T14,2014-06-27,SIBAL (cotton-fiberglass),notes,
+BASS-II,T15,2014-02-14,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T15,2014-02-14,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T15,2014-02-14,SIBAL (cotton-fiberglass),result,
+BASS-II,T15,2014-02-14,SIBAL (cotton-fiberglass),notes,
+BASS-II,T16,2014-04-10,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T16,2014-04-10,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T16,2014-04-10,SIBAL (cotton-fiberglass),result,
+BASS-II,T16,2014-04-10,SIBAL (cotton-fiberglass),notes,
+BASS-II,T17,2014-06-27,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T17,2014-06-27,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T17,2014-06-27,SIBAL (cotton-fiberglass),result,
+BASS-II,T17,2014-06-27,SIBAL (cotton-fiberglass),notes,
+BASS-II,T18,2018-06-24,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T18,2018-06-24,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T18,2018-06-24,SIBAL (cotton-fiberglass),result,
+BASS-II,T18,2018-06-24,SIBAL (cotton-fiberglass),notes,
+BASS-II,T19,2014-07-09,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T19,2014-07-09,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T19,2014-07-09,SIBAL (cotton-fiberglass),result,
+BASS-II,T19,2014-07-09,SIBAL (cotton-fiberglass),notes,
+BASS-II,T20,2014-07-09,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T20,2014-07-09,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T20,2014-07-09,SIBAL (cotton-fiberglass),result,
+BASS-II,T20,2014-07-09,SIBAL (cotton-fiberglass),notes,
+BASS-II,T21,2014-07-09,SIBAL (cotton-fiberglass),size_mm,11   max(47)
+BASS-II,T21,2014-07-09,SIBAL (cotton-fiberglass),flow_direction,11   max(47)
+BASS-II,T21,2014-07-09,SIBAL (cotton-fiberglass),result,11   max(47)
+BASS-II,T22,2014-07-09,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T22,2014-07-09,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T22,2014-07-09,SIBAL (cotton-fiberglass),result,
+BASS-II,T22,2014-07-09,SIBAL (cotton-fiberglass),notes,
+BASS-II,T23,2014-07-09,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T23,2014-07-09,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T23,2014-07-09,SIBAL (cotton-fiberglass),result,
+BASS-II,T23,2014-07-09,SIBAL (cotton-fiberglass),notes,
+BASS-II,T24,2014-07-09,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T24,2014-07-09,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T24,2014-07-09,SIBAL (cotton-fiberglass),result,
+BASS-II,T24,2014-07-09,SIBAL (cotton-fiberglass),notes,
+BASS-II,T25,2014-08-04,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T25,2014-08-04,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T25,2014-08-04,SIBAL (cotton-fiberglass),result,
+BASS-II,T25,2014-08-04,SIBAL (cotton-fiberglass),notes,
+BASS-II,T26,2014-08-04,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T26,2014-08-04,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T26,2014-08-04,SIBAL (cotton-fiberglass),result,
+BASS-II,T26,2014-08-04,SIBAL (cotton-fiberglass),notes,
+BASS-II,T27,2014-08-04,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T27,2014-08-04,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T27,2014-08-04,SIBAL (cotton-fiberglass),result,
+BASS-II,T27,2014-08-04,SIBAL (cotton-fiberglass),notes,
+BASS-II,T28a,2014-08-04,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T28a,2014-08-04,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T28a,2014-08-04,SIBAL (cotton-fiberglass),result,
+BASS-II,T28a,2014-08-04,SIBAL (cotton-fiberglass),notes,
+BASS-II,T28b,2014-08-04,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T28b,2014-08-04,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T28b,2014-08-04,SIBAL (cotton-fiberglass),result,
+BASS-II,T28b,2014-08-04,SIBAL (cotton-fiberglass),notes,
+BASS-II,T29,2014-08-04,SIBAL (cotton-fiberglass),size_mm,
+BASS-II,T29,2014-08-04,SIBAL (cotton-fiberglass),flow_direction,
+BASS-II,T29,2014-08-04,SIBAL (cotton-fiberglass),result,
+BASS-II,T29,2014-08-04,SIBAL (cotton-fiberglass),notes,
+BASS,1,2012-03-30,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,1,2012-03-30,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,1,2012-03-30,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,1,2012-03-30,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,1,2012-03-30,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,1,2012-03-30,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,42,2012-03-30,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,42,2012-03-30,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,42,2012-03-30,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,42,2012-03-30,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,42,2012-03-30,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,42,2012-03-30,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,18,2012-03-30,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,18,2012-03-30,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,18,2012-03-30,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,18,2012-03-30,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,18,2012-03-30,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,18,2012-03-30,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,7,2012-04-05,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,7,2012-04-05,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,7,2012-04-05,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,7,2012-04-05,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,7,2012-04-05,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,7,2012-04-05,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,8,2012-04-05,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,8,2012-04-05,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,8,2012-04-05,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,8,2012-04-05,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,8,2012-04-05,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,8,2012-04-05,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,43,2012-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,43,2012-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,43,2012-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,43,2012-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,43,2012-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,43,2012-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,44,2012-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,44,2012-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,44,2012-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,44,2012-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,44,2012-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,44,2012-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,45,2012-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,45,2012-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,45,2012-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,45,2012-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,45,2012-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,45,2012-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,19,2012-05-02,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,19,2012-05-02,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,19,2012-05-02,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,19,2012-05-02,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,19,2012-05-02,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,19,2012-05-02,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,20,2012-05-02,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,20,2012-05-02,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,20,2012-05-02,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,20,2012-05-02,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,20,2012-05-02,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,20,2012-05-02,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,21,2012-05-02,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,21,2012-05-02,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,21,2012-05-02,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,21,2012-05-02,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,21,2012-05-02,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,21,2012-05-02,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,4,2012-05-10,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,4,2012-05-10,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,4,2012-05-10,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,4,2012-05-10,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,4,2012-05-10,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,4,2012-05-10,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,10,2012-05-10,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,10,2012-05-10,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,10,2012-05-10,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,10,2012-05-10,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,10,2012-05-10,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,10,2012-05-10,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,12,2012-05-10,Nomex,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,12,2012-05-10,Nomex,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,12,2012-05-10,Nomex,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,12,2012-05-10,Nomex,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,12,2012-05-10,Nomex,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,12,2012-05-10,Nomex,result,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,54,2012-05-11,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,55,2012-05-11,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,56,2012-05-11,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,57,2012-05-11,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,110,2012-05-11,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,30,2012-06-05,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,31,2012-06-05,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,32,2012-06-05,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,33,2012-06-05,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R,2012-06-05,Nomex,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R,2012-06-05,Nomex,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R,2012-06-05,Nomex,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R,2012-06-05,Nomex,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R,2012-06-05,Nomex,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R,2012-06-05,Nomex,result,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R2,2012-06-05,Nomex,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R2,2012-06-05,Nomex,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R2,2012-06-05,Nomex,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R2,2012-06-05,Nomex,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R2,2012-06-05,Nomex,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,12-R2,2012-06-05,Nomex,result,BASS table has no oxygen or airflow; look in its papers
+BASS,46,2012-06-11,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,46,2012-06-11,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,46,2012-06-11,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,46,2012-06-11,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,46,2012-06-11,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,46,2012-06-11,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,47,2012-06-11,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,47,2012-06-11,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,47,2012-06-11,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,47,2012-06-11,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,47,2012-06-11,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,47,2012-06-11,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,48,2012-06-11,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,48,2012-06-11,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,48,2012-06-11,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,48,2012-06-11,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,48,2012-06-11,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,48,2012-06-11,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,49,2012-06-11,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,49,2012-06-11,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,49,2012-06-11,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,49,2012-06-11,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,49,2012-06-11,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,49,2012-06-11,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,22,2012-06-14,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,22,2012-06-14,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,22,2012-06-14,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,22,2012-06-14,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,22,2012-06-14,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,22,2012-06-14,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,23,2012-06-14,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,23,2012-06-14,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,23,2012-06-14,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,23,2012-06-14,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,23,2012-06-14,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,23,2012-06-14,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,24,2012-06-14,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,24,2012-06-14,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,24,2012-06-14,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,24,2012-06-14,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,24,2012-06-14,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,24,2012-06-14,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,25,2012-06-14,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,25,2012-06-14,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,25,2012-06-14,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,25,2012-06-14,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,25,2012-06-14,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,25,2012-06-14,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,58,2012-06-18,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,58,2012-06-18,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,58,2012-06-18,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,58,2012-06-18,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,58,2012-06-18,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,58,2012-06-18,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,59,2012-06-18,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,59,2012-06-18,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,59,2012-06-18,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,59,2012-06-18,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,59,2012-06-18,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,59,2012-06-18,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,60,2012-06-18,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,60,2012-06-18,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,60,2012-06-18,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,60,2012-06-18,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,60,2012-06-18,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,60,2012-06-18,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,61,2012-06-18,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,61,2012-06-18,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,61,2012-06-18,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,61,2012-06-18,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,61,2012-06-18,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,61,2012-06-18,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,5,2012-06-28,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,5,2012-06-28,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,5,2012-06-28,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,5,2012-06-28,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,5,2012-06-28,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,5,2012-06-28,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,14,2012-06-28,Nomex,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,14,2012-06-28,Nomex,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,14,2012-06-28,Nomex,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,14,2012-06-28,Nomex,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,14,2012-06-28,Nomex,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,14,2012-06-28,Nomex,result,BASS table has no oxygen or airflow; look in its papers
+BASS,66,2012-06-28,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,66,2012-06-28,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,66,2012-06-28,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,66,2012-06-28,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,66,2012-06-28,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,66,2012-06-28,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,67,2012-06-28,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,67,2012-06-28,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,67,2012-06-28,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,67,2012-06-28,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,67,2012-06-28,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,67,2012-06-28,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,34,2012-06-29,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,34,2012-06-29,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,34,2012-06-29,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,34,2012-06-29,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,34,2012-06-29,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,34,2012-06-29,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),date,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,35,,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,shape,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,16,2012-06-29,Ultem,result,BASS table has no oxygen or airflow; look in its papers
+BASS,5b,2012-06-29,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,5b,2012-06-29,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,5b,2012-06-29,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,5b,2012-06-29,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,5b,2012-06-29,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,5b,2012-06-29,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,6,2012-07-03,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,6,2012-07-03,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,6,2012-07-03,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,6,2012-07-03,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,6,2012-07-03,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,6,2012-07-03,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,82,2012-07-03,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,82,2012-07-03,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,82,2012-07-03,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,82,2012-07-03,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,82,2012-07-03,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,82,2012-07-03,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,82a,2012-07-03,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,82a,2012-07-03,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,82a,2012-07-03,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,82a,2012-07-03,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,82a,2012-07-03,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,82a,2012-07-03,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,82b,2012-07-03,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,82b,2012-07-03,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,82b,2012-07-03,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,82b,2012-07-03,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,82b,2012-07-03,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,82b,2012-07-03,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,68,2012-07-03,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,68,2012-07-03,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,68,2012-07-03,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,68,2012-07-03,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,68,2012-07-03,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,68,2012-07-03,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,69,2012-07-12,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,69,2012-07-12,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,69,2012-07-12,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,69,2012-07-12,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,69,2012-07-12,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,69,2012-07-12,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,111,2012-07-12,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,111,2012-07-12,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,111,2012-07-12,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,111,2012-07-12,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,111,2012-07-12,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,111,2012-07-12,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,112,2012-07-12,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,112,2012-07-12,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,112,2012-07-12,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,112,2012-07-12,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,112,2012-07-12,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,112,2012-07-12,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,113,2012-07-12,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,113,2012-07-12,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,113,2012-07-12,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,113,2012-07-12,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,113,2012-07-12,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,113,2012-07-12,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,2,2012-07-19,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,2,2012-07-19,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,2,2012-07-19,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,2,2012-07-19,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,2,2012-07-19,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,2,2012-07-19,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,3,2012-07-19,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,3,2012-07-19,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,3,2012-07-19,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,3,2012-07-19,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,3,2012-07-19,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,3,2012-07-19,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,15,2012-07-19,Nomex,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,15,2012-07-19,Nomex,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,15,2012-07-19,Nomex,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,15,2012-07-19,Nomex,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,15,2012-07-19,Nomex,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,15,2012-07-19,Nomex,result,BASS table has no oxygen or airflow; look in its papers
+BASS,13,2012-07-19,Nomex,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,13,2012-07-19,Nomex,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,13,2012-07-19,Nomex,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,13,2012-07-19,Nomex,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,13,2012-07-19,Nomex,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,13,2012-07-19,Nomex,result,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,shape,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,17,2012-07-19,Ultem,result,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2012-07-19,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2012-07-19,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2012-07-19,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2012-07-19,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2012-07-19,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2012-07-19,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,62,2012-07-23,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,62,2012-07-23,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,62,2012-07-23,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,62,2012-07-23,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,62,2012-07-23,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,62,2012-07-23,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,63,2012-07-23,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,63,2012-07-23,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,63,2012-07-23,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,63,2012-07-23,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,63,2012-07-23,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,63,2012-07-23,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,64,2012-07-23,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,64,2012-07-23,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,64,2012-07-23,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,64,2012-07-23,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,64,2012-07-23,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,64,2012-07-23,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,65,2012-07-23,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,65,2012-07-23,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,65,2012-07-23,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,65,2012-07-23,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,65,2012-07-23,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,65,2012-07-23,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2012-07-23,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2012-07-23,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2012-07-23,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2012-07-23,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2012-07-23,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2012-07-23,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,11,2012-08-09,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,11,2012-08-09,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,11,2012-08-09,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,11,2012-08-09,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,11,2012-08-09,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,11,2012-08-09,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,9,2012-08-09,SIBAL (cotton-fiberglass),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,9,2012-08-09,SIBAL (cotton-fiberglass),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,9,2012-08-09,SIBAL (cotton-fiberglass),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,9,2012-08-09,SIBAL (cotton-fiberglass),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,9,2012-08-09,SIBAL (cotton-fiberglass),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,9,2012-08-09,SIBAL (cotton-fiberglass),result,BASS table has no oxygen or airflow; look in its papers
+BASS,102,2012-08-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,102,2012-08-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,102,2012-08-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,102,2012-08-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,102,2012-08-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,102,2012-08-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,83a,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,83a,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,83a,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,83a,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,83a,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,83a,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,83b,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,83b,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,83b,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,83b,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,83b,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,83b,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,83c,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,83c,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,83c,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,83c,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,83c,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,83c,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,84a,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,84a,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,84a,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,84a,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,84a,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,84a,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,84b,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,84b,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,84b,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,84b,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,84b,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,84b,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,86a,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,86a,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,86a,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,86a,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,86a,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,86a,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,86b,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,86b,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,86b,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,86b,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,86b,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,86b,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,86c,2012-08-16,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,86c,2012-08-16,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,86c,2012-08-16,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,86c,2012-08-16,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,86c,2012-08-16,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,86c,2012-08-16,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,70,2012-08-21,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,70,2012-08-21,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,70,2012-08-21,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,70,2012-08-21,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,70,2012-08-21,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,70,2012-08-21,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,71,2012-08-21,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,71,2012-08-21,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,71,2012-08-21,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,71,2012-08-21,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,71,2012-08-21,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,71,2012-08-21,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,74,2012-08-21,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,74,2012-08-21,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,74,2012-08-21,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,74,2012-08-21,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,74,2012-08-21,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,74,2012-08-21,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2012-08-21,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2012-08-21,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2012-08-21,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2012-08-21,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2012-08-21,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2012-08-21,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,98,2013-04-05,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,99,2013-04-05,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,114,2013-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,115,2013-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,116,2013-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,117,2013-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,117a,2013-04-09,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,100,2013-04-12,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,85,2013-04-12,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,85,2013-04-12,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,85,2013-04-12,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,85,2013-04-12,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,85,2013-04-12,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,85,2013-04-12,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,93,2013-04-12,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,93,2013-04-12,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,93,2013-04-12,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,93,2013-04-12,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,93,2013-04-12,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,93,2013-04-12,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,26,2013-04-16,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,27,2013-04-16,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),shape,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,28,2013-04-16,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,87,2013-04-23,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,87,2013-04-23,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,87,2013-04-23,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,87,2013-04-23,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,87,2013-04-23,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,87,2013-04-23,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,103,2013-04-23,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,103,2013-04-23,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,103,2013-04-23,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,103,2013-04-23,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,103,2013-04-23,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,103,2013-04-23,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,104,2013-04-23,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,104,2013-04-23,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,104,2013-04-23,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,104,2013-04-23,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,104,2013-04-23,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,104,2013-04-23,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,105,2013-04-23,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,105,2013-04-23,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,105,2013-04-23,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,105,2013-04-23,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,105,2013-04-23,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,105,2013-04-23,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,38,2013-04-26,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,38,2013-04-26,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,38,2013-04-26,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,38,2013-04-26,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,38,2013-04-26,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,38,2013-04-26,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,39,2013-04-26,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,39,2013-04-26,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,39,2013-04-26,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,39,2013-04-26,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,39,2013-04-26,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,39,2013-04-26,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,40,2013-04-26,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,40,2013-04-26,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,40,2013-04-26,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,40,2013-04-26,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,40,2013-04-26,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,40,2013-04-26,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,72,2013-04-26,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,72,2013-04-26,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,72,2013-04-26,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,72,2013-04-26,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,72,2013-04-26,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,72,2013-04-26,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,73,2013-04-26,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,73,2013-04-26,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,73,2013-04-26,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,73,2013-04-26,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,73,2013-04-26,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,73,2013-04-26,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2013-04-29,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2013-04-29,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2013-04-29,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2013-04-29,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2013-04-29,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,118,2013-04-29,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,119,2013-04-29,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,119,2013-04-29,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,119,2013-04-29,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,119,2013-04-29,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,119,2013-04-29,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,119,2013-04-29,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,89,2013-05-02,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,89,2013-05-02,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,89,2013-05-02,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,89,2013-05-02,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,89,2013-05-02,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,89,2013-05-02,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,95,2013-05-02,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,95,2013-05-02,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,95,2013-05-02,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,95,2013-05-02,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,95,2013-05-02,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,95,2013-05-02,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,92,2013-05-02,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,92,2013-05-02,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,92,2013-05-02,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,92,2013-05-02,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,92,2013-05-02,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,92,2013-05-02,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,78,2013-05-02,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,78,2013-05-02,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,78,2013-05-02,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,78,2013-05-02,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,78,2013-05-02,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,78,2013-05-02,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,50,2103-05-15,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,50,2103-05-15,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,50,2103-05-15,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,50,2103-05-15,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,50,2103-05-15,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,50,2103-05-15,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,51,2013-05-15,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,51,2013-05-15,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,51,2013-05-15,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,51,2013-05-15,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,51,2013-05-15,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,51,2013-05-15,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,52,2013-05-15,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,52,2013-05-15,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,52,2013-05-15,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,52,2013-05-15,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,52,2013-05-15,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,52,2013-05-15,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-05-15,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-05-15,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-05-15,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-05-15,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-05-15,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-05-15,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,106,2013-05-17,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,106,2013-05-17,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,106,2013-05-17,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,106,2013-05-17,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,106,2013-05-17,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,106,2013-05-17,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,107,2013-05-17,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,107,2013-05-17,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,107,2013-05-17,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,107,2013-05-17,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,107,2013-05-17,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,107,2013-05-17,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,108,2013-05-17,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,108,2013-05-17,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,108,2013-05-17,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,108,2013-05-17,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,108,2013-05-17,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,108,2013-05-17,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,109,2013-06-01,PMMA (assumed),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,109,2013-06-01,PMMA (assumed),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,109,2013-06-01,PMMA (assumed),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,109,2013-06-01,PMMA (assumed),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,109,2013-06-01,PMMA (assumed),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,109,2013-06-01,PMMA (assumed),result,BASS table has no oxygen or airflow; look in its papers
+BASS,79,2013-06-01,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,79,2013-06-01,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,79,2013-06-01,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,79,2013-06-01,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,79,2013-06-01,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,79,2013-06-01,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,80,2013-06-01,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,80,2013-06-01,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,80,2013-06-01,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,80,2013-06-01,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,80,2013-06-01,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,80,2013-06-01,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2013-06-01,candle wax,size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2013-06-01,candle wax,oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2013-06-01,candle wax,airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2013-06-01,candle wax,airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2013-06-01,candle wax,flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,75,2013-06-01,candle wax,result,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-06-01,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-06-01,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-06-01,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-06-01,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-06-01,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,53,2013-06-01,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+BASS,53a,2013-06-01,PMMA (acrylic),size_mm,BASS table has no oxygen or airflow; look in its papers
+BASS,53a,2013-06-01,PMMA (acrylic),oxygen_pct,BASS table has no oxygen or airflow; look in its papers
+BASS,53a,2013-06-01,PMMA (acrylic),airflow_start_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,53a,2013-06-01,PMMA (acrylic),airflow_min_cm_s,BASS table has no oxygen or airflow; look in its papers
+BASS,53a,2013-06-01,PMMA (acrylic),flow_direction,BASS table has no oxygen or airflow; look in its papers
+BASS,53a,2013-06-01,PMMA (acrylic),result,BASS table has no oxygen or airflow; look in its papers
+SAFFIRE-I,S1,,SIBAL (cotton-fiberglass),date,
+SAFFIRE-I,S1,,SIBAL (cotton-fiberglass),airflow_min_cm_s,
+SAFFIRE-I,S1,,SIBAL (cotton-fiberglass),notes,
+SAFFIRE-I,S2,,SIBAL (cotton-fiberglass),date,
+SAFFIRE-I,S2,,SIBAL (cotton-fiberglass),airflow_min_cm_s,
+SAFFIRE-I,S2,,SIBAL (cotton-fiberglass),notes,
+SAFFIRE-II,2-1,,silicone,date,
+SAFFIRE-II,2-1,,silicone,airflow_min_cm_s,
+SAFFIRE-II,2-1,,silicone,notes,
+SAFFIRE-II,2-2,,silicone,date,
+SAFFIRE-II,2-2,,silicone,airflow_min_cm_s,
+SAFFIRE-II,2-2,,silicone,notes,
+SAFFIRE-II,2-3,,silicone,date,
+SAFFIRE-II,2-3,,silicone,airflow_min_cm_s,
+SAFFIRE-II,2-3,,silicone,notes,
+SAFFIRE-II,2-4,,silicone,date,
+SAFFIRE-II,2-4,,silicone,airflow_min_cm_s,
+SAFFIRE-II,2-4,,silicone,notes,
+SAFFIRE-II,2-5,,SIBAL (cotton-fiberglass),date,
+SAFFIRE-II,2-5,,SIBAL (cotton-fiberglass),airflow_min_cm_s,
+SAFFIRE-II,2-5,,SIBAL (cotton-fiberglass),notes,
+SAFFIRE-II,2-6,,not stated,date,
+SAFFIRE-II,2-6,,not stated,airflow_min_cm_s,
+SAFFIRE-II,2-6,,not stated,material_text,
+SAFFIRE-II,2-6,,not stated,notes,
+SAFFIRE-II,2-7,,PMMA + Nomex,date,
+SAFFIRE-II,2-7,,PMMA + Nomex,airflow_min_cm_s,
+SAFFIRE-II,2-7,,PMMA + Nomex,notes,
+SAFFIRE-II,2-8,,PMMA (acrylic),date,
+SAFFIRE-II,2-8,,PMMA (acrylic),airflow_min_cm_s,
+SAFFIRE-II,2-8,,PMMA (acrylic),notes,
+SAFFIRE-II,2-9,,not stated,date,
+SAFFIRE-II,2-9,,not stated,airflow_min_cm_s,
+SAFFIRE-II,2-9,,not stated,material_text,
+SAFFIRE-II,2-9,,not stated,notes,
+SAFFIRE-III,S1,,SIBAL (cotton-fiberglass),date,
+SAFFIRE-III,S1,,SIBAL (cotton-fiberglass),oxygen_pct,
+SAFFIRE-III,S1,,SIBAL (cotton-fiberglass),airflow_min_cm_s,
+SAFFIRE-III,S1,,SIBAL (cotton-fiberglass),result,
+SAFFIRE-III,S1,,SIBAL (cotton-fiberglass),notes,
+SAFFIRE-III,S2,,SIBAL (cotton-fiberglass),date,
+SAFFIRE-III,S2,,SIBAL (cotton-fiberglass),oxygen_pct,
+SAFFIRE-III,S2,,SIBAL (cotton-fiberglass),airflow_min_cm_s,
+SAFFIRE-III,S2,,SIBAL (cotton-fiberglass),result,
+SAFFIRE-III,S2,,SIBAL (cotton-fiberglass),notes,

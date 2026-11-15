@@ -4,7 +4,7 @@
 
 NASA has spent years setting small, careful fires in space. A sheet of cotton and fiberglass, almost a metre long, burned on a cargo ship after it left the Space Station. Acrylic rods burned in a small wind tunnel on the Space Station itself. And every one of those material fires burned in the same kind of air: Space Station air, normal pressure, 14 to 22% oxygen.
 
-The places people want to live next are a bit different. A base on the Moon, a pressurized rover, a habitat on Mars: NASA plans them with more oxygen and thinner air. In that air, the data has nothing.
+The places people want to live next are a bit different than the places these experiments were taken. A base on the Moon, a pressurized rover, a habitat on Mars: NASA plans them with more oxygen and thinner air. In that air, the data has nothing.
 
 So we built a page that asks one question, and is honest about the answer.
 
